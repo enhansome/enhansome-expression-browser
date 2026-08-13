@@ -1,0 +1,820 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cellxgene",
+          "description": ", deployed e.g. for the Tabula Muris (https://tabula-muris-senis.ds.czbiohub.org) - a simpler browser is available at https://tabula-muris.ds.czbiohub.org. Another example of this in action is http://mouse.retina.gofflab.org, for the Developing Mouse Retina https://doi.org/10.1016/j.neuron.2019.04.010",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T18:33:37Z",
+            "owner": "chanzuckerberg",
+            "repo": "cellxgene",
+            "stars": 784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vitessce",
+          "description": ", a visual integration tool for exploration of (spatial) single-cell experiment data. Some demos are available, e.g. http://vitessce.io/?dataset=linnarsson-2018 - source code is available at https://github.com/hubmapconsortium/vitessce",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T18:31:12Z",
+            "owner": "vitessce",
+            "repo": "vitessce",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iSEE",
+          "description": "Interactive SummarizedExperiment Explorer (dev version at https://github.com/iSEE/iSEE), with custom panels (https://github.com/iSEE/iSEE_custom). Publication available at https://f1000research.com/articles/7-741/v1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-13T14:19:00Z",
+            "owner": "iSEE",
+            "repo": "iSEE",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShinyCell",
+          "description": ", for simple and sharable visualisation of single-cell gene expression data; described in https://doi.org/10.1093/bioinformatics/btab209 (preprint: https://www.biorxiv.org/content/10.1101/2020.10.25.354100v1). Source available at https://github.com/SGDDNB/ShinyCell, demo/tutorial available at http://shinycell1.ddnetbio.com/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-04-24T08:05:28Z",
+            "owner": "SGDDNB",
+            "repo": "ShinyCell",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VISION",
+          "description": ", for the signature analysis and visualization for single-cell RNA-seq. Source code available at https://github.com/YosefLab/VISION, described in https://doi.org/10.1038/s41467-019-12235-0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-06-10T23:26:11Z",
+            "owner": "YosefLab",
+            "repo": "VISION",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iSTARTRAC",
+          "description": "A Shiny web-application accompanying https://doi.org/10.1038/s41597-019-0131-5. Source code available at https://github.com/Japrin/STARTRAC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-04-26T08:00:46Z",
+            "owner": "Japrin",
+            "repo": "STARTRAC",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pan-cancer tumor infiltrating myeloid cells atlas",
+          "description": ", a viewer for \"A pan-cancer single-cell transcriptional atlas of tumor infiltrating myeloid cells\" (https://doi.org/10.1016/j.cell.2021.01.010); source available at https://github.com/Sijin-ZhangLab/PanMyeloid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2020-09-16T12:00:46Z",
+            "owner": "Sijin-ZhangLab",
+            "repo": "PanMyeloid",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spatialLIBD",
+          "description": ", a package and an app (http://spatial.libd.org/spatialLIBD/) to browse the LIBD human dorsolateral pre-frontal cortex (DLPFC) spatial transcriptomics data generated with the 10x Genomics Visium platform - described in the preprint https://www.biorxiv.org/content/10.1101/2020.02.28.969931v1. Source available at https://github.com/LieberInstitute/spatialLIBD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-24T13:53:27Z",
+            "owner": "LieberInstitute",
+            "repo": "spatialLIBD",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro",
+          "description": ", Cell Report Browser, interactive application for exploration of scRNA-seq data. bioRxiv -> now published here: https://doi.org/10.1093/bioinformatics/btz877",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-11-10T18:21:47Z",
+            "owner": "romanhaa",
+            "repo": "Cerebro",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCope",
+          "description": ", general visualization tool for large-scale scRNA-seq datasets. Has some datasets preprocessed to showcase, allows own data (in the .loom format) to be uploaded. Source code: https://github.com/aertslab/SCope. Original publication where this is found: https://www.sciencedirect.com/science/article/pii/S0092867418307207",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T07:52:50Z",
+            "owner": "aertslab",
+            "repo": "SCope",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MicrobiomeExplorer",
+          "description": ", an R package + shiny app for the analysis and visualization of microbial communities - described in https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa838/5909986, source code available at https://github.com/zoecastillo/microbiomeExplorer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2022-09-01T20:30:38Z",
+            "owner": "zoecastillo",
+            "repo": "microbiomeExplorer",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Single Cell Portal",
+          "description": "at the Broad Institute; example here: https://portals.broadinstitute.org/single_cell/study/SCP43/atlas-of-human-blood-dendritic-cells-and-monocytes#study-visualize - Source code available here: https://github.com/broadinstitute/single_cell_portal_core",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-29T22:10:03Z",
+            "owner": "broadinstitute",
+            "repo": "single_cell_portal_core",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rakaia",
+          "description": "Scalable in-browser expression analysis of spatial data types, https://github.com/camlab-bioml/rakaia. Available as a preprint on bioRxiv, https://www.biorxiv.org/content/10.1101/2025.08.15.670550v1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:24:00Z",
+            "owner": "camlab-bioml",
+            "repo": "rakaia",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CRI iATLAS",
+          "description": ", an interactive portal for immuno-oncology research. Source code available at https://github.com/CRI-iAtlas/shiny-iatlas, with the publication describing it at https://f1000research.com/articles/9-1028/v1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2021-02-26T17:15:49Z",
+            "owner": "CRI-iAtlas",
+            "repo": "shiny-iatlas",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mRNA isoform atlas",
+          "description": ", a tool to visualize cell type signatures of alternative splicing in postnatal development, with the app available at https://noush-joglekar.shinyapps.io/spatialviz/. Related to the package https://github.com/noush-joglekar/scisorseqr, preprint available at https://www.biorxiv.org/content/10.1101/2020.08.27.268730v1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-03-09T22:34:40Z",
+            "owner": "noush-joglekar",
+            "repo": "scisorseqr",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scfind",
+          "description": "for fast searches of large collections of single cell data - source code available here: https://github.com/hemberg-lab/scfind, described in the publication https://www.biorxiv.org/content/10.1101/788596v1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-10-20T09:49:46Z",
+            "owner": "hemberg-lab",
+            "repo": "scfind",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PanglaoDB",
+          "description": ", a database for the exploration of single cell RNA sequencing experiments from mouse and human. Publication at https://academic.oup.com/database/article/doi/10.1093/database/baz046/5427041, GitHub repo: https://github.com/oscar-franzen/PanglaoDB (not the source code of the resource itself)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-01-29T01:53:25Z",
+            "owner": "oscar-franzen",
+            "repo": "PanglaoDB",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RNA-Seq Viewer",
+          "description": "described in https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5605993/, and based on the ideogram.js library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-24T15:36:19Z",
+            "owner": "NCBI-Hackathons",
+            "repo": "rnaseqview",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cellar",
+          "description": ", for performing interactive single-cell data analysis. Described in this publication https://doi.org/10.1038/s41467-022-29744-0, source code available at https://github.com/euxhenh/cellar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-14T21:23:21Z",
+            "owner": "euxhenh",
+            "repo": "cellar",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cell Guide",
+          "description": ", for the navigation of single-cell RNA-seq datasets in the web browser, with a demo available at https://cell.guide/app/?ds=Smillie2019&gene=CXCL2. Source code available at https://github.com/slowkow/cellguide",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-13T15:02:29Z",
+            "owner": "slowkow",
+            "repo": "cellguide",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeuratV3Wizard",
+          "description": "successor of (above) for Seurat v3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2020-09-14T11:33:15Z",
+            "owner": "nasqar",
+            "repo": "seuratv3wizard",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scSVA",
+          "description": "for Single-cell Scalable Visualization and Analytics, presented in this publication https://www.biorxiv.org/content/10.1101/512582v1 - some documentation presented as videos, e.g. https://www.youtube.com/watch?v=W_U9swh468U",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2019-03-26T16:26:12Z",
+            "owner": "klarman-cell-observatory",
+            "repo": "scSVA",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCHNAPPs",
+          "description": ", Single Cell sHiNy APP(s). Source code available at https://github.com/C3BI-pasteur-fr/UTechSCB-SCHNAPPs. Could be extended as in https://github.com/baj12/SCHNAPPsContributions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-06-20T16:50:17Z",
+            "owner": "C3BI-pasteur-fr",
+            "repo": "UTechSCB-SCHNAPPs",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iS-CellR",
+          "description": ", for analysing and visualising scRNA-seq data. R Shiny app. Manuscript available at https://academic.oup.com/bioinformatics/article/34/24/4305/5048937",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2019-10-09T16:57:22Z",
+            "owner": "immcore",
+            "repo": "iS-CellR",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShinyOmics",
+          "description": ", a web application for collaborative exploration of omics-data. Described in https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-3360-x, with source code available at https://github.com/dsurujon/ShinyOmics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2020-12-10T22:00:58Z",
+            "owner": "dsurujon",
+            "repo": "ShinyOmics",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DISCO",
+          "description": ", a database of Deeply Integrated human Single-Cell Omics data. Described in https://doi.org/10.1093/nar/gkab1020, source code (for FastIntegration) available at https://github.com/JinmiaoChenLab/FastIntegration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-10-25T11:00:58Z",
+            "owner": "JinmiaoChenLab",
+            "repo": "FastIntegration",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TISCH",
+          "description": ", Tumor Immune Single-cell Hub 2 - source code available at https://github.com/DongqingSun96/TISCH",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TSQL",
+            "last_commit": "2020-08-13T11:24:34Z",
+            "owner": "DongqingSun96",
+            "repo": "TISCH",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CellView",
+          "description": ", a Shiny app to visualize and explore single cell datasets. Source code available here: https://github.com/mohanbolisetty/CellView, described in the manuscript https://www.biorxiv.org/content/10.1101/123810v1. Currently not so clear what the expected format should be?",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2018-04-12T00:05:47Z",
+            "owner": "mohanbolisetty",
+            "repo": "CellView",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gEAR",
+          "description": ", the gene Expression Analysis Resource portal, for building community-driven, multi-omic data exploration. An exemplary instance is available at https://nemoanalytics.org/. Source code available at https://github.com/IGS/gEAR, described in the preprint https://www.biorxiv.org/content/10.1101/2020.08.28.272039v1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-13T12:27:16Z",
+            "owner": "IGS",
+            "repo": "gEAR",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCelVis",
+          "description": ", exploratory tool for preprocessed scRNA-seq data. Preprint: https://www.biorxiv.org/content/10.1101/713008v1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-20T15:30:06Z",
+            "owner": "bihealth",
+            "repo": "scelvis",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dseqr",
+          "description": ", a GUI to explore and combine scRNA-seq data. Project website available at https://docs.dseqr.com/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-01-22T17:31:14Z",
+            "owner": "hms-dbmi",
+            "repo": "dseqr",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCV (Single Cell Viewer)",
+          "description": ", preprint at https://www.biorxiv.org/content/10.1101/664789v2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2022-02-04T16:54:55Z",
+            "owner": "neuhausi",
+            "repo": "single-cell-viewer",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Giotto",
+          "description": ", a complete pipeline for integrative analysis and visualization of single-cell spatial transcriptomic data. Publication about it is https://doi.org/10.1101/701680 - Giotto Viewer is http://spatial.rc.fas.harvard.edu/giotto-viewer/, while the pipeline is available at https://github.com/RubD/Giotto",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-05-10T17:42:40Z",
+            "owner": "RubD",
+            "repo": "Giotto",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brain Immune Atlas",
+          "description": ", a resource and visualization tool for assessing various single-cell RNA sequencing datasets that together capture the diversity of the brain immune compartment. Publication related: https://www.nature.com/articles/s41593-019-0393-4; source code: https://github.com/saeyslab/brainimmuneatlas/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2020-10-20T11:00:52Z",
+            "owner": "saeyslab",
+            "repo": "brainimmuneatlas",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neuroexpresso",
+          "description": ", for the analysis of brain cell type expression profiles. Source available here, https://github.com/PavlidisLab/neuroexpresso, publication: https://www.eneuro.org/content/4/6/ENEURO.0212-17.2017",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-10-25T06:15:48Z",
+            "owner": "PavlidisLab",
+            "repo": "neuroexpresso",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTSVis",
+          "description": ", for image screening. Code available at https://github.com/boutroslab/HTSvis, described in https://academic.oup.com/bioinformatics/article/33/18/2960/3827333",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2018-09-19T07:44:29Z",
+            "owner": "boutroslab",
+            "repo": "HTSvis",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spatial Mouse Atlas",
+          "description": ", an app to browse the spatial transcriptomics SeqFISH profiling of mouse embryos during early organogenesis - described in the paper https://www.nature.com/articles/s41587-021-01006-2. App source and analysis scripts available at https://github.com/MarioniLab/SpatialMouseAtlas2020. - starmapVR, for VR-based visualisation of single cell spatial omic data. Source code available at https://github.com/holab-hku/starmapVR, described in the preprint https://www.biorxiv.org/content/10.1101/2020.09.01.277079v1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-02-10T04:08:47Z",
+            "owner": "MarioniLab",
+            "repo": "SpatialMouseAtlas2020",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ST Viewer",
+          "description": ", a GUI tool for easy and smooth visualisation and analysis of Spatial Transcriptomics datasets. Publication at https://academic.oup.com/bioinformatics/article/35/6/1058/5078471",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-04-13T16:15:00Z",
+            "owner": "SpatialTranscriptomicsResearch",
+            "repo": "st_viewer",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeuratWizard",
+          "description": "web-based interactive application to perform a guided single-cell RNA-seq data analysis and clustering based on Seurat. Based on the Nasqar platform (http://nasqar.abudhabi.nyu.edu)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2019-09-24T06:52:11Z",
+            "owner": "nasqar",
+            "repo": "SeuratWizard",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "singlecellVR",
+          "description": "interactive visualization of single-cell data in virtual reality, preprint available at https://www.biorxiv.org/content/10.1101/2020.07.30.229534v1. Source code available at https://github.com/pinellolab/singlecellvr",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-03-11T04:12:28Z",
+            "owner": "pinellolab",
+            "repo": "singlecellvr",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Human Cell Atlas Data Portals",
+          "description": ", for exploring gene expression and developmental trajectories, showcased inthis publication https://doi.org/10.1038/s41586-019-1652-y (HCA Liver instances: https://developmental.cellatlas.io/fetal-liver). Source code is available at https://github.com/DoruMP/Fast-data-portals-for-scRNAseq-data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-14T13:47:58Z",
+            "owner": "DoruMP",
+            "repo": "Fast-data-portals-for-scRNAseq-data",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bacnet",
+          "description": ", a user-friendly platform for building multi-omics websites. Described in https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa828/5910544, source code available at https://github.com/becavin-lab/bacnet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-16T07:58:08Z",
+            "owner": "becavin-lab",
+            "repo": "bacnet",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DropViz",
+          "description": ", for exploring the Mouse Brain (Macosko & McCarroll Labs). Source code is at https://github.com/broadinstitute/dropviz, publication related to this is https://www.sciencedirect.com/science/article/pii/S0092867418309553",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2018-10-31T13:34:03Z",
+            "owner": "broadinstitute",
+            "repo": "dropviz",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slide-seq Portal",
+          "description": ", companion to https://science.sciencemag.org/content/363/6434/1463. Code available at https://github.com/broadchenf/Slideseq/tree/master/BeadSeq%20Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2019-02-18T15:34:54Z",
+            "owner": "broadchenf",
+            "repo": "Slideseq",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmicPioneer-sc",
+          "description": "as integrated, interactive visualization environment for single-cell sequencing data, described in https://www.biorxiv.org/content/10.1101/2020.10.31.363580v1 - based on the NG-CHM toolbox https://github.com/MD-Anderson-Bioinformatics/NG-CHM, with a demo available here https://bioinformatics.mdanderson.org/TCGA/NGCHMPortal/NGCHM/chm.html?map=d897cc0d4d2cd5c94801a3187996d3023e3b1f28",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-08T19:49:06Z",
+            "owner": "MD-Anderson-Bioinformatics",
+            "repo": "NG-CHM",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scViewer",
+          "description": ", A single-cell data viewer shiny application. Published in https://doi.org/10.3390/cells12111489",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-08-20T20:31:06Z",
+            "owner": "arpatil01",
+            "repo": "scViewer",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlaqView",
+          "description": ", a Single-Cell Portal for Cardiovascular Research - composed of a scRNA-seq portal (http://plaqviewv2.uvadcos.io/) and a scATAC-seq portal (http://plaqviewatac.uvadcos.io/). Described in https://doi.org/10.1016/j.atherosclerosis.2021.11.025, source code available at https://github.com/MillerLab-CPHG/PlaqView",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-07-30T14:17:38Z",
+            "owner": "MillerLab-CPHG",
+            "repo": "PlaqView",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Single Cell Explorer",
+          "description": ", published in https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6053-y. Demos available at http://18.204.165.197, source code at https://github.com/d-feng/scExplorer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-09-21T05:19:50Z",
+            "owner": "d-feng",
+            "repo": "scExplorer",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scX",
+          "description": "A user-friendly tool for scRNA-seq exploration. Documentation available at https://chernolabs.github.io/scX/, related publication (preprint) at https://arxiv.org/abs/2311.00012",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-06-08T23:03:24Z",
+            "owner": "chernolabs",
+            "repo": "scX",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nichExplorer",
+          "description": ", an interactive browser for bone marrow microenvironment, accompanying https://doi.org/10.1038/s41586-019-1104-8, with source code available at https://github.com/igordot/nichexplorer. Also available from http://aifantislab.com/niche",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-10-16T17:38:06Z",
+            "owner": "igordot",
+            "repo": "nichexplorer",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scbrowse",
+          "description": "a single-cell ATAC-seq browser that enables to simultaneously explore a 2D cell-embedding and accessibility profiles across the genome. Live example: https://scbrowse.mdc-berlin.de",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-24T12:43:00Z",
+            "owner": "BIMSBbioinfo",
+            "repo": "scbrowse",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plae",
+          "description": ", the PLatform for Analysis of scEiad (single cell Eye in a Disk), with source code available at https://github.com/davemcg/plaeApp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-12-09T18:30:02Z",
+            "owner": "davemcg",
+            "repo": "plaeApp",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmicLoupe",
+          "description": ", a platform for facilitating exploration and interactive cross-dataset visualizations for omic data; demo running at http://130.239.81.217:3838/omicloupe/, source code at https://github.com/ComputationalProteomics/OmicLoupe, described in the preprint https://www.biorxiv.org/content/10.1101/2020.10.22.349944v1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-02-03T06:56:00Z",
+            "owner": "ComputationalProteomics",
+            "repo": "OmicLoupe",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VisCello",
+          "description": "for C. elegans embryogenesis, accompanying https://www.biorxiv.org/content/10.1101/565549v2, with source code available at https://github.com/qinzhu/VisCello",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-10-05T01:01:54Z",
+            "owner": "qinzhu",
+            "repo": "VisCello",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TCGABrowser",
+          "description": ", with source code available at https://github.com/pcheng84/TCGAbrowser/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-10-04T15:50:09Z",
+            "owner": "pcheng84",
+            "repo": "TCGAbrowser",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "islet regulome",
+          "description": ", to explore pancreatic islet genomic, epigenomic, and transcriptomic data. Data from https://www.nature.com/articles/s41588-019-0524-6, browser described in https://www.frontiersin.org/articles/10.3389/fgene.2017.00013/full. Source code is available at https://github.com/mireia-bioinfo/plotRegulome (plotting functions as a package!) and https://github.com/mireia-bioinfo/isletregulome_shiny (app)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-06-30T17:18:17Z",
+            "owner": "mireia-bioinfo",
+            "repo": "plotRegulome",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CHARTS",
+          "description": ", a web application for characterizing and comparing tumor subpopulations in publicly available single-cell RNA-seq datasets; described in the publication https://www.biorxiv.org/content/10.1101/2020.09.23.310441v1, source code at https://github.com/mbernste/cancer-single-cell-biomarker",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Oncoscape",
+          "description": ", a visualization tool for exploring molecular, genomic, and clinical information about patients or study subjects. Publication available at https://www.nature.com/articles/s41598-023-31180-z; source code avilable at https://github.com/FredHutch/OncoscapeV3",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "ProTrack",
+          "description": ", an interactive multiomics data browser for proteogenomic projects - described in the preprint https://doi.org/10.1101/2020.02.05.935650. Source code is (should be) available at https://github.com/WangLab/ProTrack-ccrcc (currently not found?)",
+          "children": []
+        }
+      ],
+      "title": "Software list"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:39:34.784Z",
+    "original_repository": "federicomarini/awesome-expression-browser",
+    "original_repository_sha": "f4fb3ebdca3a50c264bd6d5d0f6a2cbf54ab647c",
+    "enhanced_repository": "enhansome/enhansome-expression-browser",
+    "enhanced_repository_description": null,
+    "title": "awesome-expression-browser with stars"
+  }
+}
