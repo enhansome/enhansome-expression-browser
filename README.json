@@ -182,7 +182,7 @@
             "last_commit": "2026-08-13T19:24:00Z",
             "owner": "camlab-bioml",
             "repo": "rakaia",
-            "stars": 66
+            "stars": 67
           }
         },
         {
@@ -403,7 +403,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-14T18:52:06Z",
+            "last_commit": "2026-08-16T15:46:09Z",
             "owner": "IGS",
             "repo": "gEAR",
             "stars": 22
@@ -810,7 +810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:00:06.339Z",
+    "last_updated": "2026-08-16T18:58:42.293Z",
     "original_repository": "federicomarini/awesome-expression-browser",
     "original_repository_sha": "f4fb3ebdca3a50c264bd6d5d0f6a2cbf54ab647c",
     "enhanced_repository": "enhansome/enhansome-expression-browser",
