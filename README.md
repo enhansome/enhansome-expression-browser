@@ -37,7 +37,7 @@ Credits for the backbone of the structure go to Sean Davis and his [awesome-sing
 * [DISCO](https://www.immunesinglecell.org/), a database of Deeply Integrated human Single-Cell Omics data. Described in <https://doi.org/10.1093/nar/gkab1020>, source code (for FastIntegration) available at <https://github.com/JinmiaoChenLab/FastIntegration> ⭐ 23 | 🐛 2 | 🌐 R | 📅 2024-10-25
 * [TISCH](http://tisch.comp-genomics.org/), Tumor Immune Single-cell Hub 2 - source code available at <https://github.com/DongqingSun96/TISCH> ⭐ 23 | 🐛 7 | 🌐 TSQL | 📅 2020-08-13
 * [CellView](https://mbolisetty.shinyapps.io/CellView/), a Shiny app to visualize and explore single cell datasets. Source code available here: <https://github.com/mohanbolisetty/CellView> ⭐ 22 | 🐛 4 | 🌐 R | 📅 2018-04-12, described in the manuscript <https://www.biorxiv.org/content/10.1101/123810v1>. Currently not so clear what the expected format should be?
-* [gEAR](https://umgear.org/), the gene Expression Analysis Resource portal, for building community-driven, multi-omic data exploration. An exemplary instance is available at <https://nemoanalytics.org/>. Source code available at <https://github.com/IGS/gEAR> ⭐ 22 | 🐛 244 | 🌐 Jupyter Notebook | 📅 2026-08-16, described in the preprint  <https://www.biorxiv.org/content/10.1101/2020.08.28.272039v1>
+* [gEAR](https://umgear.org/), the gene Expression Analysis Resource portal, for building community-driven, multi-omic data exploration. An exemplary instance is available at <https://nemoanalytics.org/>. Source code available at <https://github.com/IGS/gEAR> ⭐ 22 | 🐛 244 | 🌐 Jupyter Notebook | 📅 2026-08-17, described in the preprint  <https://www.biorxiv.org/content/10.1101/2020.08.28.272039v1>
 * [SCelVis](https://github.com/bihealth/scelvis) ⭐ 22 | 🐛 10 | 🌐 Python | 📅 2024-03-20, exploratory tool for preprocessed scRNA-seq data. Preprint: <https://www.biorxiv.org/content/10.1101/713008v1>
 * [dseqr](https://github.com/hms-dbmi/dseqr) ⭐ 21 | 🐛 0 | 🌐 R | 📅 2026-01-22, a GUI to explore and combine scRNA-seq data. Project website available at <https://docs.dseqr.com/>
 * [SCV (Single Cell Viewer)](https://github.com/neuhausi/single-cell-viewer) ⭐ 21 | 🐛 0 | 🌐 R | 📅 2022-02-04, preprint at <https://www.biorxiv.org/content/10.1101/664789v2>
@@ -192,4 +192,4 @@ Made with [contributors-img](https://contrib.rocks).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
