@@ -3,14 +3,14 @@
 [![Build Status](https://travis-ci.org/federicomarini/awesome-expression-browser.svg?branch=master)](https://travis-ci.org/federicomarini/awesome-expression-browser)
 
 A curated list of software and resources for exploring and visualizing (browsing) expression data, but not only limited to that.
-Credits for the backbone of the structure go to Sean Davis and his [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,834 | 🐛 12 | 📅 2026-08-01 repository.
+Credits for the backbone of the structure go to Sean Davis and his [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,835 | 🐛 12 | 📅 2026-08-01 repository.
 
 [Contributions welcome](https://github.com/federicomarini/awesome-expression-browser/blob/master/contributing.md) ⭐ 144 | 🐛 1 | 📅 2025-10-28!
 
 ## Software list
 
-* [cellxgene](https://github.com/chanzuckerberg/cellxgene) ⭐ 784 | 🐛 140 | 🌐 JavaScript | 📅 2026-08-13, deployed e.g. for the Tabula Muris (<https://tabula-muris-senis.ds.czbiohub.org>) - a simpler browser is available at <https://tabula-muris.ds.czbiohub.org>. Another example of this in action is <http://mouse.retina.gofflab.org>, for the Developing Mouse Retina <https://doi.org/10.1016/j.neuron.2019.04.010>
-* [Vitessce](http://vitessce.io), a visual integration tool for exploration of (spatial) single-cell experiment data. Some demos are available, e.g. <http://vitessce.io/?dataset=linnarsson-2018> - source code is available at <https://github.com/hubmapconsortium/vitessce> ⭐ 263 | 🐛 505 | 🌐 JavaScript | 📅 2026-08-13
+* [cellxgene](https://github.com/chanzuckerberg/cellxgene) ⭐ 784 | 🐛 139 | 🌐 JavaScript | 📅 2026-08-18, deployed e.g. for the Tabula Muris (<https://tabula-muris-senis.ds.czbiohub.org>) - a simpler browser is available at <https://tabula-muris.ds.czbiohub.org>. Another example of this in action is <http://mouse.retina.gofflab.org>, for the Developing Mouse Retina <https://doi.org/10.1016/j.neuron.2019.04.010>
+* [Vitessce](http://vitessce.io), a visual integration tool for exploration of (spatial) single-cell experiment data. Some demos are available, e.g. <http://vitessce.io/?dataset=linnarsson-2018> - source code is available at <https://github.com/hubmapconsortium/vitessce> ⭐ 263 | 🐛 509 | 🌐 JavaScript | 📅 2026-08-18
 * [iSEE](https://bioconductor.org/packages/release/bioc/html/iSEE.html) - Interactive SummarizedExperiment Explorer (dev version at <https://github.com/iSEE/iSEE> ⭐ 230 | 🐛 33 | 🌐 R | 📅 2026-07-13), with custom panels (<https://github.com/iSEE/iSEE_custom> ⭐ 5 | 🐛 0 | 🌐 R | 📅 2020-01-11). Publication available at <https://f1000research.com/articles/7-741/v1>
 * [ShinyCell](https://github.com/SGDDNB/ShinyCell) ⭐ 217 | 🐛 36 | 🌐 R | 📅 2025-04-24, for simple and sharable visualisation of single-cell gene expression data; described in <https://doi.org/10.1093/bioinformatics/btab209> (preprint: <https://www.biorxiv.org/content/10.1101/2020.10.25.354100v1>). Source available at <https://github.com/SGDDNB/ShinyCell> ⭐ 217 | 🐛 36 | 🌐 R | 📅 2025-04-24, demo/tutorial available at <http://shinycell1.ddnetbio.com/>
 * [VISION](https://yoseflab.github.io/VISION/), for the signature analysis and visualization for single-cell RNA-seq. Source code available at <https://github.com/YosefLab/VISION> ⭐ 184 | 🐛 36 | 🌐 R | 📅 2024-06-10, described in <https://doi.org/10.1038/s41467-019-12235-0>
@@ -37,7 +37,7 @@ Credits for the backbone of the structure go to Sean Davis and his [awesome-sing
 * [DISCO](https://www.immunesinglecell.org/), a database of Deeply Integrated human Single-Cell Omics data. Described in <https://doi.org/10.1093/nar/gkab1020>, source code (for FastIntegration) available at <https://github.com/JinmiaoChenLab/FastIntegration> ⭐ 23 | 🐛 2 | 🌐 R | 📅 2024-10-25
 * [TISCH](http://tisch.comp-genomics.org/), Tumor Immune Single-cell Hub 2 - source code available at <https://github.com/DongqingSun96/TISCH> ⭐ 23 | 🐛 7 | 🌐 TSQL | 📅 2020-08-13
 * [CellView](https://mbolisetty.shinyapps.io/CellView/), a Shiny app to visualize and explore single cell datasets. Source code available here: <https://github.com/mohanbolisetty/CellView> ⭐ 22 | 🐛 4 | 🌐 R | 📅 2018-04-12, described in the manuscript <https://www.biorxiv.org/content/10.1101/123810v1>. Currently not so clear what the expected format should be?
-* [gEAR](https://umgear.org/), the gene Expression Analysis Resource portal, for building community-driven, multi-omic data exploration. An exemplary instance is available at <https://nemoanalytics.org/>. Source code available at <https://github.com/IGS/gEAR> ⭐ 22 | 🐛 244 | 🌐 Jupyter Notebook | 📅 2026-08-17, described in the preprint  <https://www.biorxiv.org/content/10.1101/2020.08.28.272039v1>
+* [gEAR](https://umgear.org/), the gene Expression Analysis Resource portal, for building community-driven, multi-omic data exploration. An exemplary instance is available at <https://nemoanalytics.org/>. Source code available at <https://github.com/IGS/gEAR> ⭐ 22 | 🐛 242 | 🌐 Jupyter Notebook | 📅 2026-08-18, described in the preprint  <https://www.biorxiv.org/content/10.1101/2020.08.28.272039v1>
 * [SCelVis](https://github.com/bihealth/scelvis) ⭐ 22 | 🐛 10 | 🌐 Python | 📅 2024-03-20, exploratory tool for preprocessed scRNA-seq data. Preprint: <https://www.biorxiv.org/content/10.1101/713008v1>
 * [dseqr](https://github.com/hms-dbmi/dseqr) ⭐ 21 | 🐛 0 | 🌐 R | 📅 2026-01-22, a GUI to explore and combine scRNA-seq data. Project website available at <https://docs.dseqr.com/>
 * [SCV (Single Cell Viewer)](https://github.com/neuhausi/single-cell-viewer) ⭐ 21 | 🐛 0 | 🌐 R | 📅 2022-02-04, preprint at <https://www.biorxiv.org/content/10.1101/664789v2>
@@ -192,4 +192,4 @@ Made with [contributors-img](https://contrib.rocks).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
