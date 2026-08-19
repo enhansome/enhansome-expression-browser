@@ -27,7 +27,7 @@
             "archived": false,
             "id": 161811262,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T23:08:50Z",
+            "last_commit": "2026-08-19T18:33:15Z",
             "owner": "vitessce",
             "repo": "vitessce",
             "stars": 263
@@ -432,7 +432,7 @@
             "archived": false,
             "id": 289995740,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-18T17:29:57Z",
+            "last_commit": "2026-08-19T18:43:01Z",
             "owner": "IGS",
             "repo": "gEAR",
             "stars": 22
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:31:28.162Z",
+    "last_updated": "2026-08-19T19:04:56.187Z",
     "original_repository": "federicomarini/awesome-expression-browser",
     "original_repository_id": 178572247,
     "original_repository_sha": "f4fb3ebdca3a50c264bd6d5d0f6a2cbf54ab647c",
