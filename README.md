@@ -10,7 +10,7 @@ Credits for the backbone of the structure go to Sean Davis and his [awesome-sing
 ## Software list
 
 * [cellxgene](https://github.com/chanzuckerberg/cellxgene) ⭐ 784 | 🐛 139 | 🌐 JavaScript | 📅 2026-08-18, deployed e.g. for the Tabula Muris (<https://tabula-muris-senis.ds.czbiohub.org>) - a simpler browser is available at <https://tabula-muris.ds.czbiohub.org>. Another example of this in action is <http://mouse.retina.gofflab.org>, for the Developing Mouse Retina <https://doi.org/10.1016/j.neuron.2019.04.010>
-* [Vitessce](http://vitessce.io), a visual integration tool for exploration of (spatial) single-cell experiment data. Some demos are available, e.g. <http://vitessce.io/?dataset=linnarsson-2018> - source code is available at <https://github.com/hubmapconsortium/vitessce> ⭐ 263 | 🐛 509 | 🌐 JavaScript | 📅 2026-08-18
+* [Vitessce](http://vitessce.io), a visual integration tool for exploration of (spatial) single-cell experiment data. Some demos are available, e.g. <http://vitessce.io/?dataset=linnarsson-2018> - source code is available at <https://github.com/hubmapconsortium/vitessce> ⭐ 263 | 🐛 510 | 🌐 JavaScript | 📅 2026-08-18
 * [iSEE](https://bioconductor.org/packages/release/bioc/html/iSEE.html) - Interactive SummarizedExperiment Explorer (dev version at <https://github.com/iSEE/iSEE> ⭐ 230 | 🐛 33 | 🌐 R | 📅 2026-07-13), with custom panels (<https://github.com/iSEE/iSEE_custom> ⭐ 5 | 🐛 0 | 🌐 R | 📅 2020-01-11). Publication available at <https://f1000research.com/articles/7-741/v1>
 * [ShinyCell](https://github.com/SGDDNB/ShinyCell) ⭐ 217 | 🐛 36 | 🌐 R | 📅 2025-04-24, for simple and sharable visualisation of single-cell gene expression data; described in <https://doi.org/10.1093/bioinformatics/btab209> (preprint: <https://www.biorxiv.org/content/10.1101/2020.10.25.354100v1>). Source available at <https://github.com/SGDDNB/ShinyCell> ⭐ 217 | 🐛 36 | 🌐 R | 📅 2025-04-24, demo/tutorial available at <http://shinycell1.ddnetbio.com/>
 * [VISION](https://yoseflab.github.io/VISION/), for the signature analysis and visualization for single-cell RNA-seq. Source code available at <https://github.com/YosefLab/VISION> ⭐ 184 | 🐛 36 | 🌐 R | 📅 2024-06-10, described in <https://doi.org/10.1038/s41467-019-12235-0>
@@ -192,4 +192,4 @@ Made with [contributors-img](https://contrib.rocks).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
