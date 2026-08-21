@@ -12,10 +12,10 @@
             "archived": false,
             "id": 105615409,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T02:01:06Z",
+            "last_commit": "2026-08-21T02:04:46Z",
             "owner": "chanzuckerberg",
             "repo": "cellxgene",
-            "stars": 786
+            "stars": 783
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 161811262,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T18:34:57Z",
+            "last_commit": "2026-08-21T18:43:50Z",
             "owner": "vitessce",
             "repo": "vitessce",
             "stars": 264
@@ -195,7 +195,7 @@
             "last_commit": "2026-08-20T15:08:01Z",
             "owner": "camlab-bioml",
             "repo": "rakaia",
-            "stars": 67
+            "stars": 69
           }
         },
         {
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:16:40.124Z",
+    "last_updated": "2026-08-21T19:08:26.140Z",
     "original_repository": "federicomarini/awesome-expression-browser",
     "original_repository_id": 178572247,
     "original_repository_sha": "f4fb3ebdca3a50c264bd6d5d0f6a2cbf54ab647c",
