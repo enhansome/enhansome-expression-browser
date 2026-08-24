@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T02:04:46Z",
             "owner": "chanzuckerberg",
             "repo": "cellxgene",
-            "stars": 783
+            "stars": 784
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-07-24T13:53:27Z",
             "owner": "LieberInstitute",
             "repo": "spatialLIBD",
-            "stars": 112
+            "stars": 113
           }
         },
         {
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:00:08.741Z",
+    "last_updated": "2026-08-24T14:35:51.570Z",
     "original_repository": "federicomarini/awesome-expression-browser",
     "original_repository_id": 178572247,
     "original_repository_sha": "f4fb3ebdca3a50c264bd6d5d0f6a2cbf54ab647c",
