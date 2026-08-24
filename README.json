@@ -27,7 +27,7 @@
             "archived": false,
             "id": 161811262,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T01:01:50Z",
+            "last_commit": "2026-08-24T14:57:14Z",
             "owner": "vitessce",
             "repo": "vitessce",
             "stars": 264
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 600210876,
             "language": "Python",
-            "last_commit": "2026-08-21T20:29:07Z",
+            "last_commit": "2026-08-24T17:18:19Z",
             "owner": "camlab-bioml",
             "repo": "rakaia",
             "stars": 69
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:35:51.570Z",
+    "last_updated": "2026-08-24T19:14:25.654Z",
     "original_repository": "federicomarini/awesome-expression-browser",
     "original_repository_id": 178572247,
     "original_repository_sha": "f4fb3ebdca3a50c264bd6d5d0f6a2cbf54ab647c",
