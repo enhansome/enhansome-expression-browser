@@ -155,21 +155,6 @@
         },
         {
           "node_type": "item",
-          "title": "MicrobiomeExplorer",
-          "description": ", an R package + shiny app for the analysis and visualization of microbial communities - described in https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa838/5909986, source code available at https://github.com/zoecastillo/microbiomeExplorer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 282956530,
-            "language": "R",
-            "last_commit": "2022-09-01T20:30:38Z",
-            "owner": "zoecastillo",
-            "repo": "microbiomeExplorer",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Single Cell Portal",
           "description": "at the Broad Institute; example here: https://portals.broadinstitute.org/single_cell/study/SCP43/atlas-of-human-blood-dendritic-cells-and-monocytes#study-visualize - Source code available here: https://github.com/broadinstitute/single_cell_portal_core",
           "children": [],
@@ -180,6 +165,21 @@
             "last_commit": "2026-06-29T22:10:03Z",
             "owner": "broadinstitute",
             "repo": "single_cell_portal_core",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MicrobiomeExplorer",
+          "description": ", an R package + shiny app for the analysis and visualization of microbial communities - described in https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa838/5909986, source code available at https://github.com/zoecastillo/microbiomeExplorer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 282956530,
+            "language": "R",
+            "last_commit": "2022-09-01T20:30:38Z",
+            "owner": "zoecastillo",
+            "repo": "microbiomeExplorer",
             "stars": 74
           }
         },
@@ -432,7 +432,7 @@
             "archived": false,
             "id": 289995740,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-22T15:01:32Z",
+            "last_commit": "2026-08-25T19:03:25Z",
             "owner": "IGS",
             "repo": "gEAR",
             "stars": 22
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:31:00.601Z",
+    "last_updated": "2026-08-25T19:11:39.513Z",
     "original_repository": "federicomarini/awesome-expression-browser",
     "original_repository_id": 178572247,
     "original_repository_sha": "f4fb3ebdca3a50c264bd6d5d0f6a2cbf54ab647c",
