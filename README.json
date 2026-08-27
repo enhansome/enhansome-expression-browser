@@ -848,9 +848,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:08:46.883Z",
-    "original_repository": "federicomarini/awesome-expression-browser",
-    "original_repository_id": 178572247,
+    "last_updated": "2026-08-27T11:39:21.479Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 178572247,
+      "language": null,
+      "last_commit": "2025-10-28T21:26:43Z",
+      "owner": "federicomarini",
+      "repo": "awesome-expression-browser",
+      "stars": 144
+    },
     "original_repository_sha": "f4fb3ebdca3a50c264bd6d5d0f6a2cbf54ab647c",
     "enhanced_repository": "enhansome/enhansome-expression-browser",
     "enhanced_repository_description": null,
