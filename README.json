@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T02:02:45Z",
             "owner": "chanzuckerberg",
             "repo": "cellxgene",
-            "stars": 784
+            "stars": 785
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 161811262,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T14:57:14Z",
+            "last_commit": "2026-08-27T19:16:40Z",
             "owner": "vitessce",
             "repo": "vitessce",
             "stars": 264
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 54125413,
             "language": "Ruby",
-            "last_commit": "2026-08-26T20:49:30Z",
+            "last_commit": "2026-08-27T20:32:40Z",
             "owner": "broadinstitute",
             "repo": "single_cell_portal_core",
             "stars": 75
@@ -432,7 +432,7 @@
             "archived": false,
             "id": 289995740,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-26T13:33:52Z",
+            "last_commit": "2026-08-27T20:05:24Z",
             "owner": "IGS",
             "repo": "gEAR",
             "stars": 22
@@ -492,7 +492,7 @@
             "archived": false,
             "id": 547482695,
             "language": "R",
-            "last_commit": "2026-08-24T20:07:32Z",
+            "last_commit": "2026-08-27T19:17:44Z",
             "owner": "RubD",
             "repo": "Giotto",
             "stars": 20
@@ -585,7 +585,7 @@
             "last_commit": "2019-09-24T06:52:11Z",
             "owner": "nasqar",
             "repo": "SeuratWizard",
-            "stars": 15
+            "stars": 14
           }
         },
         {
@@ -848,7 +848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:39:21.479Z",
+    "last_updated": "2026-08-28T02:18:08.175Z",
     "original_repository_info": {
       "archived": false,
       "id": 178572247,
