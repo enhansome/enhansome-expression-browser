@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interactive explorer for single-cell transcriptomics data",
+            "homepage": "https://chanzuckerberg.github.io/cellxgene/",
             "id": 105615409,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T02:02:45Z",
+            "open_issues": 137,
             "owner": "chanzuckerberg",
             "repo": "cellxgene",
-            "stars": 785
+            "stars": 785,
+            "topics": [
+              "dataviz",
+              "scientific",
+              "scrna-seq",
+              "transcriptomics",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -26,12 +37,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vitessce is a visual integration tool for exploration of spatial single-cell experiments. ",
+            "homepage": "http://vitessce.io",
             "id": 161811262,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:46:48Z",
+            "open_issues": 515,
             "owner": "vitessce",
             "repo": "vitessce",
-            "stars": 264
+            "stars": 264,
+            "topics": [
+              "data-visualization",
+              "hidivelab",
+              "hubmap",
+              "imaging",
+              "kharchenkolab",
+              "single-cell",
+              "vitessce",
+              "zarr"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -42,12 +67,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R/shiny interface for interactive visualization of data in SummarizedExperiment objects",
+            "homepage": "https://isee.github.io/iSEE/",
             "id": 113333302,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-13T14:19:00Z",
+            "open_issues": 33,
             "owner": "iSEE",
             "repo": "iSEE",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "clustering",
+              "dimension-reduction",
+              "feature-extraction",
+              "gene-expression",
+              "gui",
+              "hacktoberfest",
+              "human-cell-atlas",
+              "shiny",
+              "single-cell",
+              "transcriptomics",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -58,12 +100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shiny Interactive Web Apps for Single-Cell Data",
+            "homepage": null,
             "id": 302284363,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2025-04-24T08:05:28Z",
+            "open_issues": 36,
             "owner": "SGDDNB",
             "repo": "ShinyCell",
-            "stars": 217
+            "stars": 217,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -74,12 +121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Signature Analysis and Visualization for Single-Cell RNA-seq",
+            "homepage": "https://yoseflab.github.io/VISION/",
             "id": 79424615,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2024-06-10T23:26:11Z",
+            "open_issues": 36,
             "owner": "YosefLab",
             "repo": "VISION",
-            "stars": 185
+            "stars": 185,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -90,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "STARTRAC(Single T-cell Analysis by Rna-seq and Tcr TRACking)",
+            "homepage": null,
             "id": 123892363,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2025-04-26T08:00:46Z",
+            "open_issues": 10,
             "owner": "Japrin",
             "repo": "STARTRAC",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -106,12 +163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 291225191,
             "language": "R",
+            "license": null,
             "last_commit": "2020-09-16T12:00:46Z",
+            "open_issues": 2,
             "owner": "Sijin-ZhangLab",
             "repo": "PanMyeloid",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -122,12 +184,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the spatialLIBD R/Bioconductor package and shiny app",
+            "homepage": "http://LieberInstitute.github.io/spatialLIBD/",
             "id": 225913568,
             "language": "R",
+            "license": "Artistic-2.0",
             "last_commit": "2026-07-24T13:53:27Z",
+            "open_issues": 26,
             "owner": "LieberInstitute",
             "repo": "spatialLIBD",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "10xgenomics",
+              "bioconductor",
+              "golem",
+              "rstats",
+              "shiny",
+              "spatial-transcriptomics",
+              "spatialexperiment",
+              "spatiallibd",
+              "visium"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -138,12 +215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualization of scRNA-seq data.",
+            "homepage": null,
             "id": 164686297,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2022-11-10T18:21:47Z",
+            "open_issues": 29,
             "owner": "romanhaa",
             "repo": "Cerebro",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -154,12 +236,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast visualization tool for large-scale and high dimensional single-cell data",
+            "homepage": null,
             "id": 121366102,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-23T07:52:50Z",
+            "open_issues": 102,
             "owner": "aertslab",
             "repo": "SCope",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "aws",
+              "cloud",
+              "gene-expression",
+              "gene-regulatory-network",
+              "grpc",
+              "large-scale-data-visualization",
+              "loom",
+              "reactjs",
+              "single-cell"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -170,12 +267,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rails/Docker application for the Broad Institute's single cell RNA-seq data portal",
+            "homepage": "https://singlecell.broadinstitute.org",
             "id": 54125413,
             "language": "Ruby",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T21:40:05Z",
+            "open_issues": 3,
             "owner": "broadinstitute",
             "repo": "single_cell_portal_core",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "human-cell-atlas",
+              "rna-seq-analysis",
+              "single-cell-genomics"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -186,12 +292,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Microbiome Explorer provides methods to analyze and visualize microbial community sequencing data either from the R command line or through a Shiny application. Written by Janina Reeder and Joseph N. Paulson.",
+            "homepage": null,
             "id": 282956530,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2022-09-01T20:30:38Z",
+            "open_issues": 9,
             "owner": "zoecastillo",
             "repo": "microbiomeExplorer",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "microbiome",
+              "microbiome-analysis"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -202,12 +316,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spatial omics in the browser for hundreds of images at once | 10x, IMC, IF, H&E, CosMX, & more | https://rakaia.io/",
+            "homepage": "https://rakaia.io/",
             "id": 600210876,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:53:23Z",
+            "open_issues": 4,
             "owner": "camlab-bioml",
             "repo": "rakaia",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "browser",
+              "histology",
+              "imaging-mass-cytometry",
+              "mcd",
+              "multiplexed-imaging",
+              "omics",
+              "spatial",
+              "spatial-analysis",
+              "spatial-biology",
+              "spatial-data",
+              "spatial-omics",
+              "spatial-proteomics",
+              "spatial-transcriptomics",
+              "viewer",
+              "visium",
+              "xenium",
+              "zarr"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -218,12 +355,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interactive web portal for exploring immuno-oncology data.  This repo now superseded by iatlas-app",
+            "homepage": "https://www.cri-iatlas.org",
             "id": 120046956,
             "language": "R",
+            "license": "Apache-2.0",
             "last_commit": "2021-02-26T17:15:49Z",
+            "open_issues": 0,
             "owner": "CRI-iAtlas",
             "repo": "shiny-iatlas",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "cancer",
+              "genomics",
+              "immunology",
+              "systems-biology"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -234,12 +381,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "scisorseqr is an R-package for processing of single-cell long read data and analyzing differential isoform expression across any two conditions",
+            "homepage": null,
             "id": 287117283,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2023-03-09T22:34:40Z",
+            "open_issues": 5,
             "owner": "noush-joglekar",
             "repo": "scisorseqr",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "differential-analysis",
+              "long-read-sequencing",
+              "single-cell-rna-seq",
+              "splicing-quantification"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -250,12 +407,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 104359102,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-20T09:49:46Z",
+            "open_issues": 0,
             "owner": "hemberg-lab",
             "repo": "scfind",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -266,12 +428,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "metadata and data from the database",
+            "homepage": "http://panglaodb.se/",
             "id": 179065534,
             "language": null,
+            "license": null,
             "last_commit": "2020-01-29T01:53:25Z",
+            "open_issues": 3,
             "owner": "oscar-franzen",
             "repo": "PanglaoDB",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "scrna-seq",
+              "scrna-seq-data"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -282,12 +452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RNA-seq Viewer Team at the NCBI-assisted Boston Genomics Hackathon",
+            "homepage": null,
             "id": 56255701,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2017-07-24T15:36:19Z",
+            "open_issues": 2,
             "owner": "NCBI-Hackathons",
             "repo": "rnaseqview",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -298,12 +473,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive software tool for the assignment of cell types in single-cell studies.",
+            "homepage": "https://cellar.cmu.hubmapconsortium.org/app/cellar",
             "id": 372980254,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-04-14T21:23:21Z",
+            "open_issues": 4,
             "owner": "euxhenh",
             "repo": "cellar",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "clustering",
+              "codex",
+              "genomics",
+              "genomics-visualization",
+              "gui",
+              "python",
+              "sc-atac-seq",
+              "sc-rna-seq",
+              "singlecell",
+              "spatial-transcriptomics"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -314,12 +505,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧭 Navigate single-cell RNA-seq datasets in your web browser.",
+            "homepage": "https://cell.guide",
             "id": 268866845,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-07-13T15:02:29Z",
+            "open_issues": 1,
             "owner": "slowkow",
             "repo": "cellguide",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "bioinformatics",
+              "cellbrowser",
+              "data-visualization",
+              "javascript",
+              "scrna-seq"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -330,12 +532,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web-based interactive (wizard style) application to perform a guided single-cell RNA-seq data analysis and clustering based on Seurat v3",
+            "homepage": "http://nasqar.abudhabi.nyu.edu/SeuratV3Wizard",
             "id": 169200669,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2020-09-14T11:33:15Z",
+            "open_issues": 11,
             "owner": "nasqar",
             "repo": "seuratv3wizard",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "bioinformatics",
+              "r",
+              "seurat",
+              "shiny",
+              "shiny-apps",
+              "single-cell",
+              "single-cell-analysis",
+              "single-cell-genomics",
+              "single-cell-rna-seq",
+              "visualization",
+              "webapp"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -346,12 +565,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Single-cell Scalable Visualization and Analytics",
+            "homepage": null,
             "id": 129160681,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2019-03-26T16:26:12Z",
+            "open_issues": 3,
             "owner": "klarman-cell-observatory",
             "repo": "scSVA",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -362,12 +586,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shiny app for the analysis of single cell data",
+            "homepage": null,
             "id": 181477991,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-20T16:50:17Z",
+            "open_issues": 0,
             "owner": "C3BI-pasteur-fr",
             "repo": "UTechSCB-SCHNAPPs",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -378,12 +607,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iS-CellR: interactive graphical tool for analysis of single-cell RNAseq data",
+            "homepage": null,
             "id": 136460972,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2019-10-09T16:57:22Z",
+            "open_issues": 3,
             "owner": "immcore",
             "repo": "iS-CellR",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -394,12 +628,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exploration of Omics data",
+            "homepage": "http://bioinformatics.bc.edu/shiny/ShinyOmics/",
             "id": 180400493,
             "language": "R",
+            "license": "AGPL-3.0",
             "last_commit": "2020-12-10T22:00:58Z",
+            "open_issues": 6,
             "owner": "dsurujon",
             "repo": "ShinyOmics",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -410,12 +649,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FastIntegrate integrates thousands of scRNA-seq datasets and outputs batch-corrected values for downstream analysis",
+            "homepage": null,
             "id": 381959988,
             "language": "R",
+            "license": null,
             "last_commit": "2024-10-25T11:00:58Z",
+            "open_issues": 2,
             "owner": "JinmiaoChenLab",
             "repo": "FastIntegration",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "data-integration",
+              "disco",
+              "single-cell"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -426,12 +674,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tumor Immune Single-cell Hub",
+            "homepage": null,
             "id": 277689528,
             "language": "TSQL",
+            "license": null,
             "last_commit": "2020-08-13T11:24:34Z",
+            "open_issues": 7,
             "owner": "DongqingSun96",
             "repo": "TISCH",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -442,12 +695,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple App to visualize single cell datasets",
+            "homepage": null,
             "id": 74161435,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2018-04-12T00:05:47Z",
+            "open_issues": 4,
             "owner": "mohanbolisetty",
             "repo": "CellView",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -458,12 +716,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The gEAR Portal was created as a data archive and viewer for gene expression data including microarrays, bulk RNA-Seq, single-cell RNA-Seq and more.",
+            "homepage": "https://umgear.org",
             "id": 289995740,
             "language": "Jupyter Notebook",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T23:56:18Z",
+            "open_issues": 241,
             "owner": "IGS",
             "repo": "gEAR",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "bulk-rna-seq",
+              "data-archive",
+              "gene-expression",
+              "rna-seq",
+              "single-cell",
+              "single-cell-analysis"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -474,12 +744,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sparkler: SCelVis - web-based visualization of single-cell data. :arrow_right: :arrow_right: Demo :arrow_right::arrow_right:",
+            "homepage": "https://scelvis-demo.cubi.bihealth.org",
             "id": 185944510,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-20T15:30:06Z",
+            "open_issues": 10,
             "owner": "bihealth",
             "repo": "scelvis",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -490,12 +765,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "single-cell and bulk RNA-seq analyses from counts → pathways → drug candidates.",
+            "homepage": "https://docs.dseqr.com",
             "id": 182834359,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-22T17:31:14Z",
+            "open_issues": 0,
             "owner": "hms-dbmi",
             "repo": "dseqr",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "bulk-rna-seq",
+              "drug-repurposing",
+              "rna-seq",
+              "single-cell-rna-seq"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -506,12 +791,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package to visualize scRNA sequencing data.",
+            "homepage": null,
             "id": 184742891,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2022-02-04T16:54:55Z",
+            "open_issues": 0,
             "owner": "neuhausi",
             "repo": "single-cell-viewer",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -522,12 +812,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spatial omics analysis toolbox",
+            "homepage": null,
             "id": 547482695,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2026-08-27T19:17:44Z",
+            "open_issues": 0,
             "owner": "RubD",
             "repo": "Giotto",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -538,12 +833,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Overview of the scripts used to analyse the brainimmuneatlas data",
+            "homepage": null,
             "id": 176318948,
             "language": "R",
+            "license": null,
             "last_commit": "2020-10-20T11:00:52Z",
+            "open_issues": 3,
             "owner": "saeyslab",
             "repo": "brainimmuneatlas",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -554,12 +854,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bar_chart: Gene expression in neuroexpresso database",
+            "homepage": "https://neuroexpresso.msl.ubc.ca",
             "id": 34965276,
             "language": "R",
+            "license": "GPL-2.0",
             "last_commit": "2024-10-25T06:15:48Z",
+            "open_issues": 10,
             "owner": "PavlidisLab",
             "repo": "neuroexpresso",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "bioinformatics",
+              "gene-expression",
+              "mancarci-2017",
+              "neurobiology",
+              "neuroexpresso",
+              "neuroinformatics",
+              "neuron",
+              "neuroscience",
+              "r",
+              "shiny",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -570,12 +887,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web app for exploratory data analysis of high-throughput screens (HTS)",
+            "homepage": null,
             "id": 77070634,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2018-09-19T07:44:29Z",
+            "open_issues": 0,
             "owner": "boutroslab",
             "repo": "HTSvis",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -586,12 +908,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data processing and analysis scripts for our spatial profiling of embryos using seqFISH",
+            "homepage": null,
             "id": 310659625,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2023-02-10T04:08:47Z",
+            "open_issues": 1,
             "owner": "MarioniLab",
             "repo": "SpatialMouseAtlas2020",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -602,12 +929,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GUI tool for easy and smooth visualisation and analysis of Spatial Transcriptomics datasets",
+            "homepage": null,
             "id": 112462205,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2021-04-13T16:15:00Z",
+            "open_issues": 0,
             "owner": "SpatialTranscriptomicsResearch",
             "repo": "st_viewer",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -618,12 +950,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a web-based interactive (wizard style) application to perform a guided single-cell RNA-seq data analysis and clustering based on Seurat.",
+            "homepage": "http://nasqar.abudhabi.nyu.edu",
             "id": 154484830,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2019-09-24T06:52:11Z",
+            "open_issues": 1,
             "owner": "nasqar",
             "repo": "SeuratWizard",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "r",
+              "seurat",
+              "shiny",
+              "shiny-apps",
+              "single-cell",
+              "single-cell-analysis",
+              "single-cell-genomics",
+              "single-cell-rna-seq",
+              "webapplication"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -634,12 +981,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 225952802,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-03-11T04:12:28Z",
+            "open_issues": 6,
             "owner": "pinellolab",
             "repo": "singlecellvr",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -650,12 +1002,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 181701003,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-05-14T13:47:58Z",
+            "open_issues": 0,
             "owner": "DoruMP",
             "repo": "Fast-data-portals-for-scRNAseq-data",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -666,12 +1023,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BACNET is a Java based platform to develop website for multi-omics analysis",
+            "homepage": null,
             "id": 179048568,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-16T07:58:08Z",
+            "open_issues": 24,
             "owner": "becavin-lab",
             "repo": "bacnet",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "bacnet",
+              "bioinformatics",
+              "data-visualization",
+              "genomics",
+              "listeria",
+              "multi-omics",
+              "proteomics",
+              "transcriptomics",
+              "website"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -682,12 +1054,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shiny app for visualization, exploration of mouse brain single cell gene expression",
+            "homepage": null,
             "id": 99701615,
             "language": "R",
+            "license": null,
             "last_commit": "2018-10-31T13:34:03Z",
+            "open_issues": 11,
             "owner": "broadinstitute",
             "repo": "dropviz",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -698,12 +1075,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 169471802,
             "language": "MATLAB",
+            "license": null,
             "last_commit": "2019-02-18T15:34:54Z",
+            "open_issues": 2,
             "owner": "broadchenf",
             "repo": "Slideseq",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -714,12 +1096,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dynamic, graphical environment for exploration of clustered or non-clustered heat map data in a web browser.",
+            "homepage": "https://bioinformatics.mdanderson.org/main/NG-CHM-V2:Overview",
             "id": 76496360,
             "language": "JavaScript",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-08T19:49:06Z",
+            "open_issues": 136,
             "owner": "MD-Anderson-Bioinformatics",
             "repo": "NG-CHM",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "heatmap",
+              "nci-itcr",
+              "ng-chm"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -730,12 +1121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 600870892,
             "language": "C++",
+            "license": null,
             "last_commit": "2023-08-20T20:31:06Z",
+            "open_issues": 0,
             "owner": "arpatil01",
             "repo": "scViewer",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -746,12 +1142,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a standalone interactive Shiny tool to analyze and explore single-cell RNA-seq data from human coronary artery.",
+            "homepage": null,
             "id": 325051994,
             "language": "R",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-30T14:17:38Z",
+            "open_issues": 3,
             "owner": "MillerLab-CPHG",
             "repo": "PlaqView",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "bioinformatics",
+              "rna-seq",
+              "single-cell"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -762,12 +1167,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 204822093,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-09-21T05:19:50Z",
+            "open_issues": 1,
             "owner": "d-feng",
             "repo": "scExplorer",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -778,12 +1188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://chernolabs.github.io/scX/",
             "id": 594555784,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-08T23:03:24Z",
+            "open_issues": 0,
             "owner": "chernolabs",
             "repo": "scX",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -794,12 +1209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interactive query and visualization tool for populations of the bone marrow niche",
+            "homepage": "https://cellular.shinyapps.io/niche/",
             "id": 159591746,
             "language": "R",
+            "license": null,
             "last_commit": "2024-10-16T17:38:06Z",
+            "open_issues": 2,
             "owner": "igordot",
             "repo": "nichexplorer",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -810,12 +1230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interactive browser for single-cell ATAC-seq data",
+            "homepage": null,
             "id": 286758830,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-02-24T12:43:00Z",
+            "open_issues": 0,
             "owner": "BIMSBbioinfo",
             "repo": "scbrowse",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -826,12 +1251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 280935556,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-09T18:30:02Z",
+            "open_issues": 2,
             "owner": "davemcg",
             "repo": "plaeApp",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -842,12 +1272,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Understanding expression across comparisons and datasets through interactive visualization",
+            "homepage": "http://quantitativeproteomics.org/omicloupe",
             "id": 220755544,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2026-02-03T06:56:00Z",
+            "open_issues": 8,
             "owner": "ComputationalProteomics",
             "repo": "OmicLoupe",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "omics",
+              "shiny-server",
+              "singularity",
+              "tabular-data",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -858,12 +1299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Viscello for Visualization of Single Cell Data",
+            "homepage": null,
             "id": 666150810,
             "language": "R",
+            "license": null,
             "last_commit": "2024-10-05T01:01:54Z",
+            "open_issues": 0,
             "owner": "qinzhu",
             "repo": "VisCello",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -874,12 +1320,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shiny tool for TCGA",
+            "homepage": null,
             "id": 69883148,
             "language": "R",
+            "license": null,
             "last_commit": "2024-10-04T15:50:09Z",
+            "open_issues": 9,
             "owner": "pcheng84",
             "repo": "TCGAbrowser",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -890,12 +1341,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package for plotting Islet Regulome data.",
+            "homepage": "https://mireia-bioinfo.github.io/plotRegulome/",
             "id": 175781508,
             "language": "HTML",
+            "license": null,
             "last_commit": "2024-06-30T17:18:17Z",
+            "open_issues": 0,
             "owner": "mireia-bioinfo",
             "repo": "plotRegulome",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "plotting",
+              "regulatory-genomics"
+            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         }
@@ -904,15 +1363,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:53:29.537Z",
+    "last_updated": "2026-08-29T04:53:24.141Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
+      "homepage": null,
       "id": 178572247,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-10-28T21:26:43Z",
+      "open_issues": 1,
       "owner": "federicomarini",
       "repo": "awesome-expression-browser",
-      "stars": 144
+      "stars": 144,
+      "topics": [
+        "atlas",
+        "awesome-list",
+        "bioinformatics",
+        "data-exploration",
+        "data-visualization",
+        "expression-browser",
+        "gene-expression",
+        "gene-expression-profiles",
+        "humancellatlas",
+        "rna-seq-data"
+      ]
     },
     "original_repository_sha": "f4fb3ebdca3a50c264bd6d5d0f6a2cbf54ab647c",
     "enhanced_repository": "enhansome/enhansome-expression-browser",
