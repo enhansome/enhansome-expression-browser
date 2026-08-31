@@ -42,8 +42,8 @@
             "id": 161811262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T13:46:48Z",
-            "open_issues": 515,
+            "last_commit": "2026-08-31T20:44:04Z",
+            "open_issues": 518,
             "owner": "vitessce",
             "repo": "vitessce",
             "stars": 264,
@@ -172,7 +172,7 @@
             "open_issues": 2,
             "owner": "Sijin-ZhangLab",
             "repo": "PanMyeloid",
-            "stars": 113,
+            "stars": 114,
             "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
@@ -272,8 +272,8 @@
             "id": 54125413,
             "language": "Ruby",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T21:40:05Z",
-            "open_issues": 3,
+            "last_commit": "2026-08-31T20:34:45Z",
+            "open_issues": 2,
             "owner": "broadinstitute",
             "repo": "single_cell_portal_core",
             "stars": 75,
@@ -721,8 +721,8 @@
             "id": 289995740,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-28T23:56:18Z",
-            "open_issues": 241,
+            "last_commit": "2026-08-31T18:48:30Z",
+            "open_issues": 240,
             "owner": "IGS",
             "repo": "gEAR",
             "stars": 22,
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:29:05.177Z",
+    "last_updated": "2026-08-31T23:00:12.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
