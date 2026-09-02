@@ -19,7 +19,7 @@
             "open_issues": 136,
             "owner": "chanzuckerberg",
             "repo": "cellxgene",
-            "stars": 785,
+            "stars": 784,
             "topics": [
               "dataviz",
               "scientific",
@@ -42,7 +42,7 @@
             "id": 161811262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T20:26:05Z",
+            "last_commit": "2026-09-02T18:33:17Z",
             "open_issues": 507,
             "owner": "vitessce",
             "repo": "vitessce",
@@ -151,7 +151,7 @@
             "open_issues": 10,
             "owner": "Japrin",
             "repo": "STARTRAC",
-            "stars": 124,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
@@ -272,7 +272,7 @@
             "id": 54125413,
             "language": "Ruby",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-01T21:09:05Z",
+            "last_commit": "2026-09-02T17:57:26Z",
             "open_issues": 2,
             "owner": "broadinstitute",
             "repo": "single_cell_portal_core",
@@ -321,7 +321,7 @@
             "id": 600210876,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T20:49:43Z",
+            "last_commit": "2026-09-01T21:25:44Z",
             "open_issues": 5,
             "owner": "camlab-bioml",
             "repo": "rakaia",
@@ -721,7 +721,7 @@
             "id": 289995740,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-01T19:50:17Z",
+            "last_commit": "2026-09-02T20:44:43Z",
             "open_issues": 240,
             "owner": "IGS",
             "repo": "gEAR",
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T21:17:19.256Z",
+    "last_updated": "2026-09-02T21:14:07.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
