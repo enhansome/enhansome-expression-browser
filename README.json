@@ -272,7 +272,7 @@
             "id": 54125413,
             "language": "Ruby",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-02T17:57:26Z",
+            "last_commit": "2026-09-03T18:05:20Z",
             "open_issues": 2,
             "owner": "broadinstitute",
             "repo": "single_cell_portal_core",
@@ -721,7 +721,7 @@
             "id": 289995740,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-02T20:44:43Z",
+            "last_commit": "2026-09-03T19:22:13Z",
             "open_issues": 240,
             "owner": "IGS",
             "repo": "gEAR",
@@ -882,27 +882,6 @@
         },
         {
           "node_type": "item",
-          "title": "HTSVis",
-          "description": ", for image screening. Code available at https://github.com/boutroslab/HTSvis, described in https://academic.oup.com/bioinformatics/article/33/18/2960/3827333",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A web app for exploratory data analysis of high-throughput screens (HTS)",
-            "homepage": null,
-            "id": 77070634,
-            "language": "R",
-            "license": "GPL-3.0",
-            "last_commit": "2018-09-19T07:44:29Z",
-            "open_issues": 0,
-            "owner": "boutroslab",
-            "repo": "HTSvis",
-            "stars": 17,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:53:29.537Z"
-        },
-        {
-          "node_type": "item",
           "title": "Spatial Mouse Atlas",
           "description": ", an app to browse the spatial transcriptomics SeqFISH profiling of mouse embryos during early organogenesis - described in the paper https://www.nature.com/articles/s41587-021-01006-2. App source and analysis scripts available at https://github.com/MarioniLab/SpatialMouseAtlas2020. - starmapVR, for VR-based visualisation of single cell spatial omic data. Source code available at https://github.com/holab-hku/starmapVR, described in the preprint https://www.biorxiv.org/content/10.1101/2020.09.01.277079v1",
           "children": [],
@@ -917,6 +896,27 @@
             "open_issues": 1,
             "owner": "MarioniLab",
             "repo": "SpatialMouseAtlas2020",
+            "stars": 18,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:53:29.537Z"
+        },
+        {
+          "node_type": "item",
+          "title": "HTSVis",
+          "description": ", for image screening. Code available at https://github.com/boutroslab/HTSvis, described in https://academic.oup.com/bioinformatics/article/33/18/2960/3827333",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A web app for exploratory data analysis of high-throughput screens (HTS)",
+            "homepage": null,
+            "id": 77070634,
+            "language": "R",
+            "license": "GPL-3.0",
+            "last_commit": "2018-09-19T07:44:29Z",
+            "open_issues": 0,
+            "owner": "boutroslab",
+            "repo": "HTSvis",
             "stars": 17,
             "topics": []
           },
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T21:14:07.364Z",
+    "last_updated": "2026-09-03T21:17:24.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
