@@ -15,8 +15,8 @@
             "id": 105615409,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-25T02:02:45Z",
-            "open_issues": 136,
+            "last_commit": "2026-09-04T07:55:06Z",
+            "open_issues": 137,
             "owner": "chanzuckerberg",
             "repo": "cellxgene",
             "stars": 784,
@@ -46,7 +46,7 @@
             "open_issues": 507,
             "owner": "vitessce",
             "repo": "vitessce",
-            "stars": 264,
+            "stars": 265,
             "topics": [
               "data-visualization",
               "hidivelab",
@@ -272,8 +272,8 @@
             "id": 54125413,
             "language": "Ruby",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-03T18:05:20Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-04T20:25:15Z",
+            "open_issues": 3,
             "owner": "broadinstitute",
             "repo": "single_cell_portal_core",
             "stars": 75,
@@ -321,7 +321,7 @@
             "id": 600210876,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T21:25:44Z",
+            "last_commit": "2026-09-04T17:49:16Z",
             "open_issues": 5,
             "owner": "camlab-bioml",
             "repo": "rakaia",
@@ -644,31 +644,6 @@
         },
         {
           "node_type": "item",
-          "title": "DISCO",
-          "description": ", a database of Deeply Integrated human Single-Cell Omics data. Described in https://doi.org/10.1093/nar/gkab1020, source code (for FastIntegration) available at https://github.com/JinmiaoChenLab/FastIntegration",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "FastIntegrate integrates thousands of scRNA-seq datasets and outputs batch-corrected values for downstream analysis",
-            "homepage": null,
-            "id": 381959988,
-            "language": "R",
-            "license": null,
-            "last_commit": "2024-10-25T11:00:58Z",
-            "open_issues": 2,
-            "owner": "JinmiaoChenLab",
-            "repo": "FastIntegration",
-            "stars": 23,
-            "topics": [
-              "data-integration",
-              "disco",
-              "single-cell"
-            ]
-          },
-          "first_seen": "2026-08-29T01:53:29.537Z"
-        },
-        {
-          "node_type": "item",
           "title": "TISCH",
           "description": ", Tumor Immune Single-cell Hub 2 - source code available at https://github.com/DongqingSun96/TISCH",
           "children": [],
@@ -711,6 +686,31 @@
         },
         {
           "node_type": "item",
+          "title": "DISCO",
+          "description": ", a database of Deeply Integrated human Single-Cell Omics data. Described in https://doi.org/10.1093/nar/gkab1020, source code (for FastIntegration) available at https://github.com/JinmiaoChenLab/FastIntegration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "FastIntegrate integrates thousands of scRNA-seq datasets and outputs batch-corrected values for downstream analysis",
+            "homepage": null,
+            "id": 381959988,
+            "language": "R",
+            "license": null,
+            "last_commit": "2024-10-25T11:00:58Z",
+            "open_issues": 2,
+            "owner": "JinmiaoChenLab",
+            "repo": "FastIntegration",
+            "stars": 22,
+            "topics": [
+              "data-integration",
+              "disco",
+              "single-cell"
+            ]
+          },
+          "first_seen": "2026-08-29T01:53:29.537Z"
+        },
+        {
+          "node_type": "item",
           "title": "gEAR",
           "description": ", the gene Expression Analysis Resource portal, for building community-driven, multi-omic data exploration. An exemplary instance is available at https://nemoanalytics.org/. Source code available at https://github.com/IGS/gEAR, described in the preprint https://www.biorxiv.org/content/10.1101/2020.08.28.272039v1",
           "children": [],
@@ -721,7 +721,7 @@
             "id": 289995740,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-03T19:22:13Z",
+            "last_commit": "2026-09-04T02:24:40Z",
             "open_issues": 240,
             "owner": "IGS",
             "repo": "gEAR",
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:17:24.406Z",
+    "last_updated": "2026-09-04T21:00:12.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
