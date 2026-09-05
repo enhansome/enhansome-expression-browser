@@ -15,8 +15,8 @@
             "id": 105615409,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T07:55:06Z",
-            "open_issues": 137,
+            "last_commit": "2026-09-05T01:44:10Z",
+            "open_issues": 136,
             "owner": "chanzuckerberg",
             "repo": "cellxgene",
             "stars": 784,
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T21:00:12.394Z",
+    "last_updated": "2026-09-05T20:41:12.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
