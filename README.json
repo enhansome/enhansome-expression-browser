@@ -42,11 +42,11 @@
             "id": 161811262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T18:33:17Z",
-            "open_issues": 507,
+            "last_commit": "2026-09-08T14:22:28Z",
+            "open_issues": 511,
             "owner": "vitessce",
             "repo": "vitessce",
-            "stars": 265,
+            "stars": 267,
             "topics": [
               "data-visualization",
               "hidivelab",
@@ -272,11 +272,11 @@
             "id": 54125413,
             "language": "Ruby",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-04T20:25:15Z",
+            "last_commit": "2026-09-08T19:26:26Z",
             "open_issues": 3,
             "owner": "broadinstitute",
             "repo": "single_cell_portal_core",
-            "stars": 75,
+            "stars": 76,
             "topics": [
               "human-cell-atlas",
               "rna-seq-analysis",
@@ -321,8 +321,8 @@
             "id": 600210876,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T17:49:16Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-08T17:46:42Z",
+            "open_issues": 6,
             "owner": "camlab-bioml",
             "repo": "rakaia",
             "stars": 68,
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T21:45:04.593Z",
+    "last_updated": "2026-09-08T21:22:29.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
