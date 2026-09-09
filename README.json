@@ -15,11 +15,11 @@
             "id": 105615409,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T22:13:53Z",
-            "open_issues": 137,
+            "last_commit": "2026-09-09T02:15:12Z",
+            "open_issues": 138,
             "owner": "chanzuckerberg",
             "repo": "cellxgene",
-            "stars": 784,
+            "stars": 785,
             "topics": [
               "dataviz",
               "scientific",
@@ -43,7 +43,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-08T14:22:28Z",
-            "open_issues": 511,
+            "open_issues": 512,
             "owner": "vitessce",
             "repo": "vitessce",
             "stars": 267,
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "iSEE",
             "repo": "iSEE",
-            "stars": 230,
+            "stars": 231,
             "topics": [
               "clustering",
               "dimension-reduction",
@@ -721,8 +721,8 @@
             "id": 289995740,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T02:24:40Z",
-            "open_issues": 240,
+            "last_commit": "2026-09-09T19:08:58Z",
+            "open_issues": 241,
             "owner": "IGS",
             "repo": "gEAR",
             "stars": 22,
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T21:22:29.561Z",
+    "last_updated": "2026-09-09T21:08:06.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
