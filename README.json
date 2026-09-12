@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "chanzuckerberg",
             "repo": "cellxgene",
-            "stars": 787,
+            "stars": 788,
             "topics": [
               "dataviz",
               "scientific",
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T21:14:21.594Z",
+    "last_updated": "2026-09-12T20:53:40.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
