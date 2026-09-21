@@ -109,7 +109,7 @@
             "open_issues": 36,
             "owner": "SGDDNB",
             "repo": "ShinyCell",
-            "stars": 217,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
@@ -272,8 +272,8 @@
             "id": 54125413,
             "language": "Ruby",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-18T16:21:52Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-21T13:32:10Z",
+            "open_issues": 2,
             "owner": "broadinstitute",
             "repo": "single_cell_portal_core",
             "stars": 76,
@@ -325,7 +325,7 @@
             "open_issues": 6,
             "owner": "camlab-bioml",
             "repo": "rakaia",
-            "stars": 69,
+            "stars": 70,
             "topics": [
               "browser",
               "histology",
@@ -721,8 +721,8 @@
             "id": 289995740,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-19T03:43:25Z",
-            "open_issues": 240,
+            "last_commit": "2026-09-21T21:42:07Z",
+            "open_issues": 241,
             "owner": "IGS",
             "repo": "gEAR",
             "stars": 22,
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T21:01:17.320Z",
+    "last_updated": "2026-09-21T22:09:30.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
