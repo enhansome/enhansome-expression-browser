@@ -46,7 +46,7 @@
             "open_issues": 528,
             "owner": "vitessce",
             "repo": "vitessce",
-            "stars": 269,
+            "stars": 270,
             "topics": [
               "data-visualization",
               "hidivelab",
@@ -721,7 +721,7 @@
             "id": 289995740,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T19:28:56Z",
+            "last_commit": "2026-10-04T01:38:48Z",
             "open_issues": 202,
             "owner": "IGS",
             "repo": "gEAR",
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T21:42:46.366Z",
+    "last_updated": "2026-10-04T21:52:44.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
