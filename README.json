@@ -19,7 +19,7 @@
             "open_issues": 135,
             "owner": "chanzuckerberg",
             "repo": "cellxgene",
-            "stars": 788,
+            "stars": 787,
             "topics": [
               "dataviz",
               "scientific",
@@ -42,8 +42,8 @@
             "id": 161811262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T20:47:40Z",
-            "open_issues": 522,
+            "last_commit": "2026-10-08T17:47:16Z",
+            "open_issues": 527,
             "owner": "vitessce",
             "repo": "vitessce",
             "stars": 271,
@@ -189,7 +189,7 @@
             "id": 225913568,
             "language": "R",
             "license": "Artistic-2.0",
-            "last_commit": "2026-09-29T18:03:44Z",
+            "last_commit": "2026-10-08T15:59:52Z",
             "open_issues": 26,
             "owner": "LieberInstitute",
             "repo": "spatialLIBD",
@@ -721,8 +721,8 @@
             "id": 289995740,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-07T18:14:32Z",
-            "open_issues": 202,
+            "last_commit": "2026-10-08T18:15:32Z",
+            "open_issues": 201,
             "owner": "IGS",
             "repo": "gEAR",
             "stars": 22,
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:16:44.288Z",
+    "last_updated": "2026-10-08T23:31:49.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
@@ -1375,7 +1375,7 @@
       "open_issues": 1,
       "owner": "federicomarini",
       "repo": "awesome-expression-browser",
-      "stars": 144,
+      "stars": 143,
       "topics": [
         "atlas",
         "awesome-list",
