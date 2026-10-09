@@ -42,11 +42,11 @@
             "id": 161811262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T17:47:16Z",
-            "open_issues": 527,
+            "last_commit": "2026-10-09T21:01:32Z",
+            "open_issues": 530,
             "owner": "vitessce",
             "repo": "vitessce",
-            "stars": 271,
+            "stars": 272,
             "topics": [
               "data-visualization",
               "hidivelab",
@@ -849,6 +849,27 @@
         },
         {
           "node_type": "item",
+          "title": "Spatial Mouse Atlas",
+          "description": ", an app to browse the spatial transcriptomics SeqFISH profiling of mouse embryos during early organogenesis - described in the paper https://www.nature.com/articles/s41587-021-01006-2. App source and analysis scripts available at https://github.com/MarioniLab/SpatialMouseAtlas2020. - starmapVR, for VR-based visualisation of single cell spatial omic data. Source code available at https://github.com/holab-hku/starmapVR, described in the preprint https://www.biorxiv.org/content/10.1101/2020.09.01.277079v1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Data processing and analysis scripts for our spatial profiling of embryos using seqFISH",
+            "homepage": null,
+            "id": 310659625,
+            "language": "R",
+            "license": "MIT",
+            "last_commit": "2023-02-10T04:08:47Z",
+            "open_issues": 1,
+            "owner": "MarioniLab",
+            "repo": "SpatialMouseAtlas2020",
+            "stars": 19,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:53:29.537Z"
+        },
+        {
+          "node_type": "item",
           "title": "Neuroexpresso",
           "description": ", for the analysis of brain cell type expression profiles. Source available here, https://github.com/PavlidisLab/neuroexpresso, publication: https://www.eneuro.org/content/4/6/ENEURO.0212-17.2017",
           "children": [],
@@ -877,27 +898,6 @@
               "shiny",
               "visualization"
             ]
-          },
-          "first_seen": "2026-08-29T01:53:29.537Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Spatial Mouse Atlas",
-          "description": ", an app to browse the spatial transcriptomics SeqFISH profiling of mouse embryos during early organogenesis - described in the paper https://www.nature.com/articles/s41587-021-01006-2. App source and analysis scripts available at https://github.com/MarioniLab/SpatialMouseAtlas2020. - starmapVR, for VR-based visualisation of single cell spatial omic data. Source code available at https://github.com/holab-hku/starmapVR, described in the preprint https://www.biorxiv.org/content/10.1101/2020.09.01.277079v1",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Data processing and analysis scripts for our spatial profiling of embryos using seqFISH",
-            "homepage": null,
-            "id": 310659625,
-            "language": "R",
-            "license": "MIT",
-            "last_commit": "2023-02-10T04:08:47Z",
-            "open_issues": 1,
-            "owner": "MarioniLab",
-            "repo": "SpatialMouseAtlas2020",
-            "stars": 18,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:31:49.345Z",
+    "last_updated": "2026-10-09T22:51:23.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",

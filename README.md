@@ -3,14 +3,14 @@
 [![Build Status](https://travis-ci.org/federicomarini/awesome-expression-browser.svg?branch=master)](https://travis-ci.org/federicomarini/awesome-expression-browser)
 
 A curated list of software and resources for exploring and visualizing (browsing) expression data, but not only limited to that.
-Credits for the backbone of the structure go to Sean Davis and his [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,869 | 🐛 8 | 📅 2026-10-05 repository.
+Credits for the backbone of the structure go to Sean Davis and his [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,871 | 🐛 8 | 📅 2026-10-05 repository.
 
 [Contributions welcome](https://github.com/federicomarini/awesome-expression-browser/blob/master/contributing.md)!
 
 ## Software list
 
 * [cellxgene](https://github.com/chanzuckerberg/cellxgene) ⭐ 787 | 🐛 135 | 🌐 JavaScript | 📅 2026-09-29, deployed e.g. for the Tabula Muris (<https://tabula-muris-senis.ds.czbiohub.org>) - a simpler browser is available at <https://tabula-muris.ds.czbiohub.org>. Another example of this in action is <http://mouse.retina.gofflab.org>, for the Developing Mouse Retina <https://doi.org/10.1016/j.neuron.2019.04.010>
-* [Vitessce](http://vitessce.io), a visual integration tool for exploration of (spatial) single-cell experiment data. Some demos are available, e.g. <http://vitessce.io/?dataset=linnarsson-2018> - source code is available at <https://github.com/hubmapconsortium/vitessce> ⭐ 271 | 🐛 527 | 🌐 JavaScript | 📅 2026-10-08
+* [Vitessce](http://vitessce.io), a visual integration tool for exploration of (spatial) single-cell experiment data. Some demos are available, e.g. <http://vitessce.io/?dataset=linnarsson-2018> - source code is available at <https://github.com/hubmapconsortium/vitessce> ⭐ 272 | 🐛 530 | 🌐 JavaScript | 📅 2026-10-09
 * [iSEE](https://bioconductor.org/packages/release/bioc/html/iSEE.html) - Interactive SummarizedExperiment Explorer (dev version at <https://github.com/iSEE/iSEE> ⭐ 231 | 🐛 33 | 🌐 R | 📅 2026-07-13), with custom panels (<https://github.com/iSEE/iSEE_custom> ⭐ 5 | 🐛 0 | 🌐 R | 📅 2020-01-11). Publication available at <https://f1000research.com/articles/7-741/v1>
 * [ShinyCell](https://github.com/SGDDNB/ShinyCell) ⭐ 218 | 🐛 36 | 🌐 R | 📅 2025-04-24, for simple and sharable visualisation of single-cell gene expression data; described in <https://doi.org/10.1093/bioinformatics/btab209> (preprint: <https://www.biorxiv.org/content/10.1101/2020.10.25.354100v1>). Source available at <https://github.com/SGDDNB/ShinyCell> ⭐ 218 | 🐛 36 | 🌐 R | 📅 2025-04-24, demo/tutorial available at <http://shinycell1.ddnetbio.com/>
 * [VISION](https://yoseflab.github.io/VISION/), for the signature analysis and visualization for single-cell RNA-seq. Source code available at <https://github.com/YosefLab/VISION> ⭐ 186 | 🐛 36 | 🌐 R | 📅 2024-06-10, described in <https://doi.org/10.1038/s41467-019-12235-0>
@@ -43,9 +43,9 @@ Credits for the backbone of the structure go to Sean Davis and his [awesome-sing
 * [SCV (Single Cell Viewer)](https://github.com/neuhausi/single-cell-viewer) ⭐ 21 | 🐛 0 | 🌐 R | 📅 2022-02-04, preprint at <https://www.biorxiv.org/content/10.1101/664789v2>
 * [Giotto](http://spatial.rc.fas.harvard.edu), a complete pipeline for integrative analysis and visualization of single-cell spatial transcriptomic data. Publication about it is <https://doi.org/10.1101/701680> - Giotto Viewer is <http://spatial.rc.fas.harvard.edu/giotto-viewer/>, while the pipeline is available at <https://github.com/RubD/Giotto> ⭐ 20 | 🐛 0 | 🌐 R | 📅 2026-09-29
 * [Brain Immune Atlas](http://www.brainimmuneatlas.org/), a resource and visualization tool for assessing various single-cell RNA sequencing datasets that together capture the diversity of the brain immune compartment. Publication related: <https://www.nature.com/articles/s41593-019-0393-4>; source code: <https://github.com/saeyslab/brainimmuneatlas/> ⭐ 19 | 🐛 3 | 🌐 R | 📅 2020-10-20
-* [Neuroexpresso](http://neuroexpresso.org), for the analysis of brain cell type expression profiles. Source available here, <https://github.com/PavlidisLab/neuroexpresso> ⭐ 18 | 🐛 10 | 🌐 R | 📅 2024-10-25, publication: <https://www.eneuro.org/content/4/6/ENEURO.0212-17.2017>
-* [Spatial Mouse Atlas](https://marionilab.cruk.cam.ac.uk/SpatialMouseAtlas), an app to browse the spatial transcriptomics SeqFISH profiling of mouse embryos during early organogenesis - described in the paper <https://www.nature.com/articles/s41587-021-01006-2>. App source and analysis scripts available at <https://github.com/MarioniLab/SpatialMouseAtlas2020> ⭐ 18 | 🐛 1 | 🌐 R | 📅 2023-02-10.
+* [Spatial Mouse Atlas](https://marionilab.cruk.cam.ac.uk/SpatialMouseAtlas), an app to browse the spatial transcriptomics SeqFISH profiling of mouse embryos during early organogenesis - described in the paper <https://www.nature.com/articles/s41587-021-01006-2>. App source and analysis scripts available at <https://github.com/MarioniLab/SpatialMouseAtlas2020> ⭐ 19 | 🐛 1 | 🌐 R | 📅 2023-02-10.
   - [starmapVR](https://holab-hku.github.io/starmapVR/), for VR-based visualisation of single cell spatial omic data. Source code available at <https://github.com/holab-hku/starmapVR> ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-03, described in the preprint <https://www.biorxiv.org/content/10.1101/2020.09.01.277079v1>
+* [Neuroexpresso](http://neuroexpresso.org), for the analysis of brain cell type expression profiles. Source available here, <https://github.com/PavlidisLab/neuroexpresso> ⭐ 18 | 🐛 10 | 🌐 R | 📅 2024-10-25, publication: <https://www.eneuro.org/content/4/6/ENEURO.0212-17.2017>
 * [HTSVis](http://htsvis.dkfz.de/HTSvis/), for image screening. Code available at <https://github.com/boutroslab/HTSvis> ⭐ 17 | 🐛 0 | 🌐 R | 📅 2018-09-19, described in <https://academic.oup.com/bioinformatics/article/33/18/2960/3827333>
 * [ST Viewer](https://github.com/SpatialTranscriptomicsResearch/st_viewer) ⭐ 16 | 🐛 0 | 🌐 C++ | 📅 2021-04-13, a GUI tool for easy and smooth visualisation and analysis of Spatial Transcriptomics datasets. Publication at <https://academic.oup.com/bioinformatics/article/35/6/1058/5078471>
 * [SeuratWizard](https://github.com/nasqar/SeuratWizard) ⭐ 14 | 🐛 1 | 🌐 R | 📅 2019-09-24 - web-based interactive application to perform a guided single-cell RNA-seq data analysis and clustering based on Seurat. Based on the Nasqar platform (<http://nasqar.abudhabi.nyu.edu>)
@@ -192,4 +192,4 @@ Made with [contributors-img](https://contrib.rocks).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
