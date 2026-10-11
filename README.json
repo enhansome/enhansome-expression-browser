@@ -42,8 +42,8 @@
             "id": 161811262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T21:01:32Z",
-            "open_issues": 530,
+            "last_commit": "2026-10-11T16:18:23Z",
+            "open_issues": 531,
             "owner": "vitessce",
             "repo": "vitessce",
             "stars": 272,
@@ -750,7 +750,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2024-03-20T15:30:06Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "bihealth",
             "repo": "scelvis",
             "stars": 22,
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T21:57:43.300Z",
+    "last_updated": "2026-10-11T22:24:31.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
