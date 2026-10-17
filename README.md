@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/federicomarini/awesome-expression-browser.svg?branch=master)](https://travis-ci.org/federicomarini/awesome-expression-browser)
 
 A curated list of software and resources for exploring and visualizing (browsing) expression data, but not only limited to that.
-Credits for the backbone of the structure go to Sean Davis and his [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,876 | 🐛 8 | 📅 2026-10-16 repository.
+Credits for the backbone of the structure go to Sean Davis and his [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,877 | 🐛 9 | 📅 2026-10-16 repository.
 
 [Contributions welcome](https://github.com/federicomarini/awesome-expression-browser/blob/master/contributing.md)!
 
@@ -15,7 +15,7 @@ Credits for the backbone of the structure go to Sean Davis and his [awesome-sing
 * [ShinyCell](https://github.com/SGDDNB/ShinyCell) ⭐ 218 | 🐛 36 | 🌐 R | 📅 2025-04-24, for simple and sharable visualisation of single-cell gene expression data; described in <https://doi.org/10.1093/bioinformatics/btab209> (preprint: <https://www.biorxiv.org/content/10.1101/2020.10.25.354100v1>). Source available at <https://github.com/SGDDNB/ShinyCell> ⭐ 218 | 🐛 36 | 🌐 R | 📅 2025-04-24, demo/tutorial available at <http://shinycell1.ddnetbio.com/>
 * [VISION](https://yoseflab.github.io/VISION/), for the signature analysis and visualization for single-cell RNA-seq. Source code available at <https://github.com/YosefLab/VISION> ⭐ 186 | 🐛 36 | 🌐 R | 📅 2024-06-10, described in <https://doi.org/10.1038/s41467-019-12235-0>
 * [iSTARTRAC](http://crctcell.cancer-pku.cn/) - A Shiny web-application accompanying <https://doi.org/10.1038/s41597-019-0131-5>. Source code available at <https://github.com/Japrin/STARTRAC> ⭐ 127 | 🐛 10 | 🌐 HTML | 📅 2025-04-26
-* [spatialLIBD](http://research.libd.org/spatialLIBD/), a package and an app (<http://spatial.libd.org/spatialLIBD/>) to browse the LIBD human dorsolateral pre-frontal cortex (DLPFC) spatial transcriptomics data generated with the 10x Genomics Visium platform - described in the preprint <https://www.biorxiv.org/content/10.1101/2020.02.28.969931v1>. Source available at <https://github.com/LieberInstitute/spatialLIBD> ⭐ 115 | 🐛 27 | 🌐 R | 📅 2026-10-16
+* [spatialLIBD](http://research.libd.org/spatialLIBD/), a package and an app (<http://spatial.libd.org/spatialLIBD/>) to browse the LIBD human dorsolateral pre-frontal cortex (DLPFC) spatial transcriptomics data generated with the 10x Genomics Visium platform - described in the preprint <https://www.biorxiv.org/content/10.1101/2020.02.28.969931v1>. Source available at <https://github.com/LieberInstitute/spatialLIBD> ⭐ 115 | 🐛 28 | 🌐 R | 📅 2026-10-16
 * [Pan-cancer tumor infiltrating myeloid cells atlas](http://panmyeloid.cancer-pku.cn/), a viewer for "A pan-cancer single-cell transcriptional atlas of tumor infiltrating myeloid cells" (<https://doi.org/10.1016/j.cell.2021.01.010>); source available at <https://github.com/Sijin-ZhangLab/PanMyeloid> ⭐ 114 | 🐛 2 | 🌐 R | 📅 2020-09-16
 * [cerebro](https://github.com/romanhaa/Cerebro) ⭐ 98 | 🐛 29 | 🌐 HTML | 📅 2022-11-10, Cell Report Browser, interactive application for exploration of scRNA-seq data. [bioRxiv](https://www.biorxiv.org/content/10.1101/631705v1) -> now published here: <https://doi.org/10.1093/bioinformatics/btz877>
 * [SCope](http://scope.aertslab.org/), general visualization tool for large-scale scRNA-seq datasets. Has some datasets preprocessed to showcase, allows own data (in the .loom format) to be uploaded. Source code: <https://github.com/aertslab/SCope> ⭐ 80 | 🐛 102 | 🌐 Python | 📅 2026-06-23. Original publication where this is found: <https://www.sciencedirect.com/science/article/pii/S0092867418307207>
@@ -192,4 +192,4 @@ Made with [contributors-img](https://contrib.rocks).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._

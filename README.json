@@ -169,7 +169,7 @@
             "language": "R",
             "license": "Artistic-2.0",
             "last_commit": "2026-10-16T21:12:53Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "LieberInstitute",
             "repo": "spatialLIBD",
             "stars": 115,
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T21:38:11.537Z",
+    "last_updated": "2026-10-17T20:53:40.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
