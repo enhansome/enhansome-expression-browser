@@ -42,7 +42,7 @@
             "id": 161811262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T17:06:01Z",
+            "last_commit": "2026-10-19T18:45:29Z",
             "open_issues": 532,
             "owner": "vitessce",
             "repo": "vitessce",
@@ -172,7 +172,7 @@
             "open_issues": 28,
             "owner": "LieberInstitute",
             "repo": "spatialLIBD",
-            "stars": 115,
+            "stars": 116,
             "topics": [
               "10xgenomics",
               "bioconductor",
@@ -272,7 +272,7 @@
             "id": 54125413,
             "language": "Ruby",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-16T20:36:03Z",
+            "last_commit": "2026-10-19T16:10:52Z",
             "open_issues": 5,
             "owner": "broadinstitute",
             "repo": "single_cell_portal_core",
@@ -325,7 +325,7 @@
             "open_issues": 4,
             "owner": "camlab-bioml",
             "repo": "rakaia",
-            "stars": 71,
+            "stars": 72,
             "topics": [
               "browser",
               "histology",
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T20:59:31.958Z",
+    "last_updated": "2026-10-19T22:36:07.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
