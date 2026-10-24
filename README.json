@@ -109,7 +109,7 @@
             "open_issues": 36,
             "owner": "SGDDNB",
             "repo": "ShinyCell",
-            "stars": 218,
+            "stars": 219,
             "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
@@ -203,7 +203,7 @@
             "open_issues": 2,
             "owner": "Sijin-ZhangLab",
             "repo": "PanMyeloid",
-            "stars": 114,
+            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T21:36:56.975Z",
+    "last_updated": "2026-10-24T21:08:14.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
