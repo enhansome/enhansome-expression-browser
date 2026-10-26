@@ -272,8 +272,8 @@
             "id": 54125413,
             "language": "Ruby",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-23T20:26:08Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-26T20:44:30Z",
+            "open_issues": 3,
             "owner": "broadinstitute",
             "repo": "single_cell_portal_core",
             "stars": 76,
@@ -721,7 +721,7 @@
             "id": 289995740,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-23T03:03:33Z",
+            "last_commit": "2026-10-26T20:48:35Z",
             "open_issues": 201,
             "owner": "IGS",
             "repo": "gEAR",
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T21:11:02.245Z",
+    "last_updated": "2026-10-26T22:50:49.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
