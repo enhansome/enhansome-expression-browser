@@ -42,8 +42,8 @@
             "id": 161811262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T18:38:37Z",
-            "open_issues": 534,
+            "last_commit": "2026-10-28T20:22:44Z",
+            "open_issues": 538,
             "owner": "vitessce",
             "repo": "vitessce",
             "stars": 272,
@@ -72,7 +72,7 @@
             "id": 113333302,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-07-13T14:19:00Z",
+            "last_commit": "2026-10-28T15:23:13Z",
             "open_issues": 34,
             "owner": "iSEE",
             "repo": "iSEE",
@@ -158,6 +158,27 @@
         },
         {
           "node_type": "item",
+          "title": "Pan-cancer tumor infiltrating myeloid cells atlas",
+          "description": ", a viewer for \"A pan-cancer single-cell transcriptional atlas of tumor infiltrating myeloid cells\" (https://doi.org/10.1016/j.cell.2021.01.010); source available at https://github.com/Sijin-ZhangLab/PanMyeloid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 291225191,
+            "language": "R",
+            "license": null,
+            "last_commit": "2020-09-16T12:00:46Z",
+            "open_issues": 2,
+            "owner": "Sijin-ZhangLab",
+            "repo": "PanMyeloid",
+            "stars": 116,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:53:29.537Z"
+        },
+        {
+          "node_type": "item",
           "title": "spatialLIBD",
           "description": ", a package and an app (http://spatial.libd.org/spatialLIBD/) to browse the LIBD human dorsolateral pre-frontal cortex (DLPFC) spatial transcriptomics data generated with the 10x Genomics Visium platform - described in the preprint https://www.biorxiv.org/content/10.1101/2020.02.28.969931v1. Source available at https://github.com/LieberInstitute/spatialLIBD",
           "children": [],
@@ -184,27 +205,6 @@
               "spatiallibd",
               "visium"
             ]
-          },
-          "first_seen": "2026-08-29T01:53:29.537Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Pan-cancer tumor infiltrating myeloid cells atlas",
-          "description": ", a viewer for \"A pan-cancer single-cell transcriptional atlas of tumor infiltrating myeloid cells\" (https://doi.org/10.1016/j.cell.2021.01.010); source available at https://github.com/Sijin-ZhangLab/PanMyeloid",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 291225191,
-            "language": "R",
-            "license": null,
-            "last_commit": "2020-09-16T12:00:46Z",
-            "open_issues": 2,
-            "owner": "Sijin-ZhangLab",
-            "repo": "PanMyeloid",
-            "stars": 115,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -272,8 +272,8 @@
             "id": 54125413,
             "language": "Ruby",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-27T20:55:03Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-28T20:35:09Z",
+            "open_issues": 2,
             "owner": "broadinstitute",
             "repo": "single_cell_portal_core",
             "stars": 76,
@@ -721,7 +721,7 @@
             "id": 289995740,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-27T18:28:01Z",
+            "last_commit": "2026-10-28T18:27:10Z",
             "open_issues": 202,
             "owner": "IGS",
             "repo": "gEAR",
@@ -1102,7 +1102,7 @@
             "language": "JavaScript",
             "license": "GPL-2.0",
             "last_commit": "2026-05-08T19:49:06Z",
-            "open_issues": 136,
+            "open_issues": 137,
             "owner": "MD-Anderson-Bioinformatics",
             "repo": "NG-CHM",
             "stars": 10,
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T22:34:09.271Z",
+    "last_updated": "2026-10-28T22:48:00.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
