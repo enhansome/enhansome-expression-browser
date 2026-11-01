@@ -42,8 +42,8 @@
             "id": 161811262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T20:29:58Z",
-            "open_issues": 540,
+            "last_commit": "2026-11-01T15:50:44Z",
+            "open_issues": 538,
             "owner": "vitessce",
             "repo": "vitessce",
             "stars": 273,
@@ -272,8 +272,8 @@
             "id": 54125413,
             "language": "Ruby",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-30T20:18:05Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-01T09:19:14Z",
+            "open_issues": 5,
             "owner": "broadinstitute",
             "repo": "single_cell_portal_core",
             "stars": 76,
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T21:49:56.168Z",
+    "last_updated": "2026-11-01T22:19:33.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
