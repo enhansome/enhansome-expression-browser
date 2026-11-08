@@ -325,7 +325,7 @@
             "open_issues": 6,
             "owner": "camlab-bioml",
             "repo": "rakaia",
-            "stars": 73,
+            "stars": 72,
             "topics": [
               "browser",
               "histology",
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T22:14:51.757Z",
+    "last_updated": "2026-11-08T22:25:25.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
