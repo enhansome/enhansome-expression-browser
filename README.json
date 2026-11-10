@@ -19,7 +19,7 @@
             "open_issues": 138,
             "owner": "chanzuckerberg",
             "repo": "cellxgene",
-            "stars": 787,
+            "stars": 788,
             "topics": [
               "dataviz",
               "scientific",
@@ -42,8 +42,8 @@
             "id": 161811262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T20:15:30Z",
-            "open_issues": 530,
+            "last_commit": "2026-11-09T20:54:34Z",
+            "open_issues": 532,
             "owner": "vitessce",
             "repo": "vitessce",
             "stars": 273,
@@ -151,7 +151,7 @@
             "open_issues": 10,
             "owner": "Japrin",
             "repo": "STARTRAC",
-            "stars": 127,
+            "stars": 128,
             "topics": []
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
@@ -189,7 +189,7 @@
             "id": 225913568,
             "language": "R",
             "license": "Artistic-2.0",
-            "last_commit": "2026-11-05T15:19:28Z",
+            "last_commit": "2026-11-09T20:44:51Z",
             "open_issues": 28,
             "owner": "LieberInstitute",
             "repo": "spatialLIBD",
@@ -272,8 +272,8 @@
             "id": 54125413,
             "language": "Ruby",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-06T18:56:01Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-09T19:14:46Z",
+            "open_issues": 5,
             "owner": "broadinstitute",
             "repo": "single_cell_portal_core",
             "stars": 76,
@@ -325,7 +325,7 @@
             "open_issues": 6,
             "owner": "camlab-bioml",
             "repo": "rakaia",
-            "stars": 72,
+            "stars": 71,
             "topics": [
               "browser",
               "histology",
@@ -721,8 +721,8 @@
             "id": 289995740,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-06T20:17:03Z",
-            "open_issues": 205,
+            "last_commit": "2026-11-09T20:57:28Z",
+            "open_issues": 202,
             "owner": "IGS",
             "repo": "gEAR",
             "stars": 22,
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T22:25:25.405Z",
+    "last_updated": "2026-11-10T01:44:30.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
