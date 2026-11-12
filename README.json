@@ -46,7 +46,7 @@
             "open_issues": 532,
             "owner": "vitessce",
             "repo": "vitessce",
-            "stars": 273,
+            "stars": 274,
             "topics": [
               "data-visualization",
               "hidivelab",
@@ -272,8 +272,8 @@
             "id": 54125413,
             "language": "Ruby",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-10T18:59:31Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-12T19:55:37Z",
+            "open_issues": 3,
             "owner": "broadinstitute",
             "repo": "single_cell_portal_core",
             "stars": 76,
@@ -281,6 +281,45 @@
               "human-cell-atlas",
               "rna-seq-analysis",
               "single-cell-genomics"
+            ]
+          },
+          "first_seen": "2026-08-29T01:53:29.537Z"
+        },
+        {
+          "node_type": "item",
+          "title": "rakaia",
+          "description": "Scalable in-browser expression analysis of spatial data types, https://github.com/camlab-bioml/rakaia. Available as a preprint on bioRxiv, https://www.biorxiv.org/content/10.1101/2025.08.15.670550v1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Scalable spatial omics in the browser for hundreds of samples at once | 10x, IMC, IF, H&E, CosMX, & more | https://rakaia.io/",
+            "homepage": "https://rakaia.io/",
+            "id": 600210876,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-10T15:39:30Z",
+            "open_issues": 4,
+            "owner": "camlab-bioml",
+            "repo": "rakaia",
+            "stars": 74,
+            "topics": [
+              "browser",
+              "histology",
+              "imaging-mass-cytometry",
+              "mcd",
+              "multiplexed-imaging",
+              "omics",
+              "spatial",
+              "spatial-analysis",
+              "spatial-biology",
+              "spatial-data",
+              "spatial-omics",
+              "spatial-proteomics",
+              "spatial-transcriptomics",
+              "viewer",
+              "visium",
+              "xenium",
+              "zarr"
             ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
@@ -305,45 +344,6 @@
             "topics": [
               "microbiome",
               "microbiome-analysis"
-            ]
-          },
-          "first_seen": "2026-08-29T01:53:29.537Z"
-        },
-        {
-          "node_type": "item",
-          "title": "rakaia",
-          "description": "Scalable in-browser expression analysis of spatial data types, https://github.com/camlab-bioml/rakaia. Available as a preprint on bioRxiv, https://www.biorxiv.org/content/10.1101/2025.08.15.670550v1",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Scalable spatial omics in the browser for hundreds of samples at once | 10x, IMC, IF, H&E, CosMX, & more | https://rakaia.io/",
-            "homepage": "https://rakaia.io/",
-            "id": 600210876,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-11-10T15:39:30Z",
-            "open_issues": 4,
-            "owner": "camlab-bioml",
-            "repo": "rakaia",
-            "stars": 73,
-            "topics": [
-              "browser",
-              "histology",
-              "imaging-mass-cytometry",
-              "mcd",
-              "multiplexed-imaging",
-              "omics",
-              "spatial",
-              "spatial-analysis",
-              "spatial-biology",
-              "spatial-data",
-              "spatial-omics",
-              "spatial-proteomics",
-              "spatial-transcriptomics",
-              "viewer",
-              "visium",
-              "xenium",
-              "zarr"
             ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
@@ -721,8 +721,8 @@
             "id": 289995740,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-11T13:16:32Z",
-            "open_issues": 194,
+            "last_commit": "2026-11-12T21:08:33Z",
+            "open_issues": 197,
             "owner": "IGS",
             "repo": "gEAR",
             "stars": 22,
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T00:57:39.940Z",
+    "last_updated": "2026-11-12T23:50:21.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
