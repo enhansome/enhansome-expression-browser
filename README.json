@@ -19,7 +19,7 @@
             "open_issues": 138,
             "owner": "chanzuckerberg",
             "repo": "cellxgene",
-            "stars": 788,
+            "stars": 789,
             "topics": [
               "dataviz",
               "scientific",
@@ -72,8 +72,8 @@
             "id": 113333302,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T14:39:58Z",
-            "open_issues": 35,
+            "last_commit": "2026-11-11T12:29:51Z",
+            "open_issues": 34,
             "owner": "iSEE",
             "repo": "iSEE",
             "stars": 230,
@@ -158,6 +158,37 @@
         },
         {
           "node_type": "item",
+          "title": "spatialLIBD",
+          "description": ", a package and an app (http://spatial.libd.org/spatialLIBD/) to browse the LIBD human dorsolateral pre-frontal cortex (DLPFC) spatial transcriptomics data generated with the 10x Genomics Visium platform - described in the preprint https://www.biorxiv.org/content/10.1101/2020.02.28.969931v1. Source available at https://github.com/LieberInstitute/spatialLIBD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code for the spatialLIBD R/Bioconductor package and shiny app",
+            "homepage": "http://LieberInstitute.github.io/spatialLIBD/",
+            "id": 225913568,
+            "language": "R",
+            "license": "Artistic-2.0",
+            "last_commit": "2026-11-11T21:44:51Z",
+            "open_issues": 28,
+            "owner": "LieberInstitute",
+            "repo": "spatialLIBD",
+            "stars": 117,
+            "topics": [
+              "10xgenomics",
+              "bioconductor",
+              "golem",
+              "rstats",
+              "shiny",
+              "spatial-transcriptomics",
+              "spatialexperiment",
+              "spatiallibd",
+              "visium"
+            ]
+          },
+          "first_seen": "2026-08-29T01:53:29.537Z"
+        },
+        {
+          "node_type": "item",
           "title": "Pan-cancer tumor infiltrating myeloid cells atlas",
           "description": ", a viewer for \"A pan-cancer single-cell transcriptional atlas of tumor infiltrating myeloid cells\" (https://doi.org/10.1016/j.cell.2021.01.010); source available at https://github.com/Sijin-ZhangLab/PanMyeloid",
           "children": [],
@@ -174,37 +205,6 @@
             "repo": "PanMyeloid",
             "stars": 116,
             "topics": []
-          },
-          "first_seen": "2026-08-29T01:53:29.537Z"
-        },
-        {
-          "node_type": "item",
-          "title": "spatialLIBD",
-          "description": ", a package and an app (http://spatial.libd.org/spatialLIBD/) to browse the LIBD human dorsolateral pre-frontal cortex (DLPFC) spatial transcriptomics data generated with the 10x Genomics Visium platform - described in the preprint https://www.biorxiv.org/content/10.1101/2020.02.28.969931v1. Source available at https://github.com/LieberInstitute/spatialLIBD",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Code for the spatialLIBD R/Bioconductor package and shiny app",
-            "homepage": "http://LieberInstitute.github.io/spatialLIBD/",
-            "id": 225913568,
-            "language": "R",
-            "license": "Artistic-2.0",
-            "last_commit": "2026-11-10T19:00:32Z",
-            "open_issues": 29,
-            "owner": "LieberInstitute",
-            "repo": "spatialLIBD",
-            "stars": 116,
-            "topics": [
-              "10xgenomics",
-              "bioconductor",
-              "golem",
-              "rstats",
-              "shiny",
-              "spatial-transcriptomics",
-              "spatialexperiment",
-              "spatiallibd",
-              "visium"
-            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -721,8 +721,8 @@
             "id": 289995740,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-10T20:57:26Z",
-            "open_issues": 191,
+            "last_commit": "2026-11-11T13:16:32Z",
+            "open_issues": 194,
             "owner": "IGS",
             "repo": "gEAR",
             "stars": 22,
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T23:40:45.647Z",
+    "last_updated": "2026-11-12T00:57:39.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
