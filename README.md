@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/federicomarini/awesome-expression-browser.svg?branch=master)](https://travis-ci.org/federicomarini/awesome-expression-browser)
 
 A curated list of software and resources for exploring and visualizing (browsing) expression data, but not only limited to that.
-Credits for the backbone of the structure go to Sean Davis and his [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,893 | 🐛 8 | 📅 2026-11-13 repository.
+Credits for the backbone of the structure go to Sean Davis and his [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,893 | 🐛 9 | 📅 2026-11-13 repository.
 
 [Contributions welcome](https://github.com/federicomarini/awesome-expression-browser/blob/master/contributing.md)!
 
@@ -192,4 +192,4 @@ Made with [contributors-img](https://contrib.rocks).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
