@@ -19,7 +19,7 @@
             "open_issues": 137,
             "owner": "chanzuckerberg",
             "repo": "cellxgene",
-            "stars": 791,
+            "stars": 790,
             "topics": [
               "dataviz",
               "scientific",
@@ -42,7 +42,7 @@
             "id": 161811262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T20:36:49Z",
+            "last_commit": "2026-11-20T00:35:34Z",
             "open_issues": 532,
             "owner": "vitessce",
             "repo": "vitessce",
@@ -76,7 +76,7 @@
             "open_issues": 34,
             "owner": "iSEE",
             "repo": "iSEE",
-            "stars": 230,
+            "stars": 231,
             "topics": [
               "clustering",
               "dimension-reduction",
@@ -168,7 +168,7 @@
             "id": 225913568,
             "language": "R",
             "license": "Artistic-2.0",
-            "last_commit": "2026-11-18T20:13:04Z",
+            "last_commit": "2026-11-19T17:13:15Z",
             "open_issues": 27,
             "owner": "LieberInstitute",
             "repo": "spatialLIBD",
@@ -272,8 +272,8 @@
             "id": 54125413,
             "language": "Ruby",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-18T16:31:40Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-19T20:39:29Z",
+            "open_issues": 6,
             "owner": "broadinstitute",
             "repo": "single_cell_portal_core",
             "stars": 76,
@@ -711,6 +711,32 @@
         },
         {
           "node_type": "item",
+          "title": "dseqr",
+          "description": ", a GUI to explore and combine scRNA-seq data. Project website available at https://docs.dseqr.com/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "single-cell and bulk RNA-seq analyses from counts → pathways → drug candidates.",
+            "homepage": "https://docs.dseqr.com",
+            "id": 182834359,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2026-01-22T17:31:14Z",
+            "open_issues": 0,
+            "owner": "hms-dbmi",
+            "repo": "dseqr",
+            "stars": 22,
+            "topics": [
+              "bulk-rna-seq",
+              "drug-repurposing",
+              "rna-seq",
+              "single-cell-rna-seq"
+            ]
+          },
+          "first_seen": "2026-08-29T01:53:29.537Z"
+        },
+        {
+          "node_type": "item",
           "title": "gEAR",
           "description": ", the gene Expression Analysis Resource portal, for building community-driven, multi-omic data exploration. An exemplary instance is available at https://nemoanalytics.org/. Source code available at https://github.com/IGS/gEAR, described in the preprint https://www.biorxiv.org/content/10.1101/2020.08.28.272039v1",
           "children": [],
@@ -721,8 +747,8 @@
             "id": 289995740,
             "language": "Jupyter Notebook",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-18T20:38:43Z",
-            "open_issues": 195,
+            "last_commit": "2026-11-19T20:55:00Z",
+            "open_issues": 198,
             "owner": "IGS",
             "repo": "gEAR",
             "stars": 22,
@@ -755,32 +781,6 @@
             "repo": "scelvis",
             "stars": 22,
             "topics": []
-          },
-          "first_seen": "2026-08-29T01:53:29.537Z"
-        },
-        {
-          "node_type": "item",
-          "title": "dseqr",
-          "description": ", a GUI to explore and combine scRNA-seq data. Project website available at https://docs.dseqr.com/",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "single-cell and bulk RNA-seq analyses from counts → pathways → drug candidates.",
-            "homepage": "https://docs.dseqr.com",
-            "id": 182834359,
-            "language": "R",
-            "license": "NOASSERTION",
-            "last_commit": "2026-01-22T17:31:14Z",
-            "open_issues": 0,
-            "owner": "hms-dbmi",
-            "repo": "dseqr",
-            "stars": 21,
-            "topics": [
-              "bulk-rna-seq",
-              "drug-repurposing",
-              "rna-seq",
-              "single-cell-rna-seq"
-            ]
           },
           "first_seen": "2026-08-29T01:53:29.537Z"
         },
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T00:42:17.336Z",
+    "last_updated": "2026-11-20T00:52:28.555Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of software and resources for exploring and visualizing (browsing) expression data 😎",
