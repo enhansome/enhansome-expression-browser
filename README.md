@@ -3,13 +3,13 @@
 [![Build Status](https://travis-ci.org/federicomarini/awesome-expression-browser.svg?branch=master)](https://travis-ci.org/federicomarini/awesome-expression-browser)
 
 A curated list of software and resources for exploring and visualizing (browsing) expression data, but not only limited to that.
-Credits for the backbone of the structure go to Sean Davis and his [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,893 | 🐛 8 | 📅 2026-11-15 repository.
+Credits for the backbone of the structure go to Sean Davis and his [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,894 | 🐛 8 | 📅 2026-11-15 repository.
 
 [Contributions welcome](https://github.com/federicomarini/awesome-expression-browser/blob/master/contributing.md)!
 
 ## Software list
 
-* [cellxgene](https://github.com/chanzuckerberg/cellxgene) ⭐ 790 | 🐛 137 | 🌐 JavaScript | 📅 2026-11-18, deployed e.g. for the Tabula Muris (<https://tabula-muris-senis.ds.czbiohub.org>) - a simpler browser is available at <https://tabula-muris.ds.czbiohub.org>. Another example of this in action is <http://mouse.retina.gofflab.org>, for the Developing Mouse Retina <https://doi.org/10.1016/j.neuron.2019.04.010>
+* [cellxgene](https://github.com/chanzuckerberg/cellxgene) ⭐ 790 | 🐛 135 | 🌐 JavaScript | 📅 2026-11-21, deployed e.g. for the Tabula Muris (<https://tabula-muris-senis.ds.czbiohub.org>) - a simpler browser is available at <https://tabula-muris.ds.czbiohub.org>. Another example of this in action is <http://mouse.retina.gofflab.org>, for the Developing Mouse Retina <https://doi.org/10.1016/j.neuron.2019.04.010>
 * [Vitessce](http://vitessce.io), a visual integration tool for exploration of (spatial) single-cell experiment data. Some demos are available, e.g. <http://vitessce.io/?dataset=linnarsson-2018> - source code is available at <https://github.com/hubmapconsortium/vitessce> ⭐ 275 | 🐛 533 | 🌐 JavaScript | 📅 2026-11-20
 * [iSEE](https://bioconductor.org/packages/release/bioc/html/iSEE.html) - Interactive SummarizedExperiment Explorer (dev version at <https://github.com/iSEE/iSEE> ⭐ 231 | 🐛 34 | 🌐 R | 📅 2026-11-11), with custom panels (<https://github.com/iSEE/iSEE_custom> ⭐ 5 | 🐛 0 | 🌐 R | 📅 2020-01-11). Publication available at <https://f1000research.com/articles/7-741/v1>
 * [ShinyCell](https://github.com/SGDDNB/ShinyCell) ⭐ 219 | 🐛 36 | 🌐 R | 📅 2025-04-24, for simple and sharable visualisation of single-cell gene expression data; described in <https://doi.org/10.1093/bioinformatics/btab209> (preprint: <https://www.biorxiv.org/content/10.1101/2020.10.25.354100v1>). Source available at <https://github.com/SGDDNB/ShinyCell> ⭐ 219 | 🐛 36 | 🌐 R | 📅 2025-04-24, demo/tutorial available at <http://shinycell1.ddnetbio.com/>
